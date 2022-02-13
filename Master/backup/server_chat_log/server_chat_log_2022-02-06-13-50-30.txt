@@ -1,0 +1,11 @@
+[00:09:07]: [Join Announcement] MissGiovanna
+[00:09:30]: [Join Announcement] jelsaoverlandfrost
+[00:09:48]: [Vote Announcement] rollback passed
+[00:10:33]: [Vote Announcement] rollback passed
+[00:11:34]: [Leave Announcement] MissGiovanna
+[00:11:34]: [Leave Announcement] jelsaoverlandfrost
+[00:14:27]: [Join Announcement] jelsaoverlandfrost
+[00:16:59]: [Join Announcement] MissGiovanna
+[00:20:48]: [Leave Announcement] MissGiovanna
+[00:24:23]: [Join Announcement] MissGiovanna
+[00:36:28]: [Leave Announcement] MissGiovanna

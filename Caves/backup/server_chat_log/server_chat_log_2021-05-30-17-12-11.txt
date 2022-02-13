@@ -1,0 +1,85 @@
+[00:01:50]: [Join Announcement] jelsaoverlandfrost
+[00:02:21]: [Leave Announcement] jelsaoverlandfrost
+[11:35:44]: [Join Announcement] MissGiovanna
+[11:35:44]: [Join Announcement] jelsaoverlandfrost
+[11:38:18]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[11:40:18]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[11:42:18]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[11:44:19]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[11:46:19]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[11:46:25]: [Vote Announcement] rollback passed
+[11:48:29]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[11:50:29]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[11:52:29]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[11:54:29]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[11:56:30]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[11:58:30]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[12:00:30]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[12:02:30]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[12:04:31]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[12:06:31]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[12:08:31]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[12:10:31]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[12:12:32]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[12:14:32]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[12:16:32]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[12:18:32]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[12:20:33]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[12:20:48]: [Skin Announcement] jelsaoverlandfrost legs_swing_pants_tan_khaki
+[12:22:33]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[12:24:33]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[12:26:28]: [Skin Announcement] MissGiovanna feet_wx78_magma
+[12:26:33]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[12:28:35]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[12:30:35]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[12:32:35]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[12:34:35]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[12:36:36]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[12:38:36]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[12:40:36]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[12:42:36]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[12:44:37]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[12:46:37]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[12:48:37]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[12:50:37]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[12:52:38]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[12:54:38]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[12:56:38]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[12:58:38]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[13:00:39]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[13:02:39]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[13:04:39]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[13:06:39]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[13:08:41]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[13:10:40]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[13:12:41]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[13:14:40]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[13:16:42]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[13:18:42]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[13:20:42]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[13:22:42]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[13:24:43]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[13:25:13]: [Skin Announcement] MissGiovanna body_buttons_grey_gainsboro
+[13:26:43]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[13:28:43]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[13:30:34]: [Skin Announcement] jelsaoverlandfrost legs_shorts_tan_khaki
+[13:30:43]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[13:32:44]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[13:34:44]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[13:36:44]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[13:38:44]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[13:40:45]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[13:42:45]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[13:44:45]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[13:46:45]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[13:48:46]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[13:50:46]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[13:52:46]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[13:54:46]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[13:56:54]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[13:58:54]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[14:00:54]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[14:02:54]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[14:07:06]: [Leave Announcement] jelsaoverlandfrost
+[14:07:09]: [Mod Warning] Epic Healthbar is out of date and needs to be updated for new users to be able to join the server.
+[14:07:13]: [Leave Announcement] MissGiovanna

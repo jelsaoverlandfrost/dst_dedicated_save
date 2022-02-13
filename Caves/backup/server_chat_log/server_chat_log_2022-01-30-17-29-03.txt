@@ -1,0 +1,15 @@
+[00:02:17]: [Join Announcement] jelsaoverlandfrost
+[00:02:17]: [Join Announcement] MissGiovanna
+[00:24:50]: [Skin Announcement] jelsaoverlandfrost feet_wendy_magma
+[00:48:52]: [Announcement] This is going to be a terrible night...
+[00:49:02]: [Announcement] The Twins turn their gaze toward jelsaoverlandfrost
+[00:56:42]: [Announcement] This is going to be a terrible night...
+[00:56:52]: [Announcement] The Twins turn their gaze toward MissGiovanna
+[00:58:16]: [Death Announcement] MissGiovanna was killed by Spazmatism. She became a spooky ghost!
+[00:58:23]: [Death Announcement] jelsaoverlandfrost was killed by Retinazor. She became a spooky ghost!
+[00:58:39]: [Resurrect Announcement] jelsaoverlandfrost was resurrected by Endothermic Fire Pit.
+[00:58:41]: [Resurrect Announcement] MissGiovanna was resurrected by Fire Pit.
+[00:59:06]: [Vote Announcement] rollback passed
+[00:59:10]: [Leave Announcement] MissGiovanna
+[01:00:32]: [Vote Announcement] rollback passed
+[01:01:11]: [Vote Announcement] rollback passed

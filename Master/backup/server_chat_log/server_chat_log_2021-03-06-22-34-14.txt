@@ -1,0 +1,19 @@
+[00:04:05]: [Join Announcement] jelsaoverlandfrost
+[00:59:01]: [Skin Announcement] jelsaoverlandfrost body_tshirt_white_smoke
+[01:02:43]: [Leave Announcement] jelsaoverlandfrost
+[03:36:56]: [Join Announcement] jelsaoverlandfrost
+[03:59:34]: [Leave Announcement] jelsaoverlandfrost
+[04:01:22]: [Join Announcement] jelsaoverlandfrost
+[04:30:07]: [Leave Announcement] jelsaoverlandfrost
+[02:05:30]: [Join Announcement] jelsaoverlandfrost
+[03:06:32]: [Skin Announcement] jelsaoverlandfrost legs_shorts_green_hunters
+[03:45:38]: [Leave Announcement] jelsaoverlandfrost
+[01:27:34]: [Join Announcement] jelsaoverlandfrost
+[01:28:06]: [Leave Announcement] jelsaoverlandfrost
+[01:33:22]: [Join Announcement] jelsaoverlandfrost
+[01:34:24]: [Join Announcement] MissGiovanna
+[01:59:33]: [Skin Announcement] jelsaoverlandfrost feet_captoe_shoe_black_jet
+[02:09:02]: [Vote Announcement] rollback passed
+[02:15:28]: [Vote Announcement] rollback passed
+[02:16:27]: [Vote Announcement] rollback passed
+[02:24:12]: [Skin Announcement] MissGiovanna body_polo_blue_cornflower

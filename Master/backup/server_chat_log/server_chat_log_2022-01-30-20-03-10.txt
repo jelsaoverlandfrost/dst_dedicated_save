@@ -1,0 +1,10 @@
+[00:02:16]: [Join Announcement] jelsaoverlandfrost
+[00:04:52]: [Join Announcement] MissGiovanna
+[00:35:30]: [Skin Announcement] jelsaoverlandfrost wilson_beard_madscience
+[01:31:16]: [Skin Announcement] jelsaoverlandfrost feet_wilson_yule
+[01:37:16]: [Announcement] You feel an evil presence watching you...
+[01:37:26]: [Announcement] The Eye of Terror turns its gaze toward jelsaoverlandfrost
+[01:46:21]: [Leave Announcement] MissGiovanna
+[01:48:37]: [Join Announcement] MissGiovanna
+[02:00:35]: [Vote Announcement] rollback passed
+[02:01:20]: [Vote Announcement] rollback passed

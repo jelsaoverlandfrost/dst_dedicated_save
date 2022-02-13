@@ -1,0 +1,40 @@
+[00:02:32]: [Join Announcement] jelsaoverlandfrost
+[00:27:40]: [Skin Announcement] jelsaoverlandfrost hand_longgloves_red_ruby
+[00:47:46]: [Join Announcement] MissGiovanna
+[00:54:39]: [Leave Announcement] MissGiovanna
+[01:01:03]: [Join Announcement] MissGiovanna
+[01:05:53]: [Leave Announcement] MissGiovanna
+[01:07:21]: [Leave Announcement] jelsaoverlandfrost
+[01:16:50]: [Join Announcement] jelsaoverlandfrost
+[01:45:29]: [Skin Announcement] jelsaoverlandfrost legs_skirt_plaid_purple_lavender
+[02:42:27]: [Leave Announcement] jelsaoverlandfrost
+[00:00:44]: [Join Announcement] jelsaoverlandfrost
+[00:19:27]: [Vote Announcement] rollback passed
+[00:20:21]: [Vote Announcement] rollback passed
+[00:40:20]: [Death Announcement] jelsaoverlandfrost was killed by Sand Spike. She became a spooky ghost!
+[00:40:27]: [Vote Announcement] rollback passed
+[00:42:20]: [Join Announcement] MissGiovanna
+[00:43:01]: [Skin Announcement] MissGiovanna body_polo_green_pistachio
+[00:49:47]: [Death Announcement] MissGiovanna was killed by Crawling Horror. She became a spooky ghost!
+[00:50:46]: [Vote Announcement] rollback passed
+[00:52:13]: [Vote Announcement] rollback passed
+[00:52:16]: [Leave Announcement] MissGiovanna
+[00:53:10]: [Vote Announcement] rollback passed
+[01:03:44]: [Join Announcement] MissGiovanna
+[01:39:02]: [Death Announcement] MissGiovanna was killed by Depths Worm. She became a spooky ghost!
+[01:39:05]: [Resurrect Announcement] MissGiovanna was resurrected by Fire Pit.
+[01:41:50]: [Skin Announcement] MissGiovanna feet_wx78_wip
+[02:47:49]: [Skin Announcement] MissGiovanna feet_walter_detective
+[02:57:51]: [Death Announcement] MissGiovanna was killed by Depths Worm. She became a spooky ghost!
+[02:57:55]: [Resurrect Announcement] MissGiovanna was resurrected by Fire Pit.
+[03:16:20]: [Death Announcement] jelsaoverlandfrost was killed by Bearger. She became a spooky ghost!
+[03:16:28]: [Resurrect Announcement] jelsaoverlandfrost was resurrected by Fire Pit.
+[03:17:40]: [Death Announcement] MissGiovanna was killed by Bearger. She became a spooky ghost!
+[03:17:55]: [Resurrect Announcement] MissGiovanna was resurrected by Fire Pit.
+[03:18:20]: [Death Announcement] MissGiovanna was killed by Bearger. She became a spooky ghost!
+[03:18:32]: [Resurrect Announcement] MissGiovanna was resurrected by Fire Pit.
+[03:28:30]: [Death Announcement] jelsaoverlandfrost was killed by Bearger. She became a spooky ghost!
+[03:28:53]: [Resurrect Announcement] jelsaoverlandfrost was resurrected by Fire Pit.
+[04:12:31]: [Skin Announcement] MissGiovanna spear_forge_lance
+[04:27:57]: [Leave Announcement] MissGiovanna
+[04:28:00]: [Leave Announcement] jelsaoverlandfrost

@@ -1,0 +1,27 @@
+[00:03:53]: [Join Announcement] MissGiovanna
+[00:04:29]: [Join Announcement] jelsaoverlandfrost
+[00:05:25]: [Vote Announcement] rollback passed
+[00:06:21]: [Vote Announcement] rollback passed
+[00:07:23]: [Vote Announcement] rollback passed
+[00:58:21]: [Death Announcement] jelsaoverlandfrost was killed by Blue Hound. She became a spooky ghost!
+[00:58:34]: [Resurrect Announcement] jelsaoverlandfrost was resurrected by Fire Pit.
+[01:01:34]: [Skin Announcement] jelsaoverlandfrost feet_warly_victorian
+[01:23:36]: [Vote Announcement] rollback passed
+[01:51:16]: [Death Announcement] MissGiovanna was killed by Sand Spike. She became a spooky ghost!
+[01:51:22]: [Resurrect Announcement] MissGiovanna was resurrected by Endothermic Fire.
+[01:51:35]: [Death Announcement] jelsaoverlandfrost was killed by Sand Spike. She became a spooky ghost!
+[01:51:42]: [Resurrect Announcement] jelsaoverlandfrost was resurrected by Endothermic Fire.
+[01:52:18]: [Death Announcement] MissGiovanna was killed by Sand Spike. She became a spooky ghost!
+[01:52:22]: [Resurrect Announcement] MissGiovanna was resurrected by Endothermic Fire.
+[01:52:30]: [Death Announcement] jelsaoverlandfrost was killed by Sand Spike. She became a spooky ghost!
+[01:52:36]: [Resurrect Announcement] jelsaoverlandfrost was resurrected by Endothermic Fire.
+[01:53:09]: [Death Announcement] MissGiovanna was killed by Sand Spike. She became a spooky ghost!
+[01:53:14]: [Resurrect Announcement] MissGiovanna was resurrected by Endothermic Fire.
+[01:53:42]: [Death Announcement] jelsaoverlandfrost was killed by Sand Spike. She became a spooky ghost!
+[01:53:54]: [Vote Announcement] rollback passed
+[02:03:53]: [Death Announcement] MissGiovanna was killed by Sand Spike. She became a spooky ghost!
+[02:04:21]: [Resurrect Announcement] MissGiovanna was resurrected by Fire Pit.
+[02:08:40]: [Skin Announcement] jelsaoverlandfrost body_toga_white_pure
+[03:26:17]: [Skin Announcement] jelsaoverlandfrost legs_wormwood_mushroom
+[03:28:09]: [Leave Announcement] MissGiovanna
+[03:28:12]: [Leave Announcement] jelsaoverlandfrost

@@ -1,0 +1,693 @@
+[00:00:00]: PersistRootStorage is now /home/dstsave//dst/dst-saves/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 456207
+[00:00:00]: Current time: Thu Mar 18 14:13:26 2021
+
+[00:00:00]: System Name: Linux
+[00:00:00]: Host Name: Shadow_Starve
+[00:00:00]: Release(Kernel) Version: 4.9.256-0409256-generic
+[00:00:00]: Kernel Build Timestamp: #202102051536 SMP Fri Feb 5 19:21:32 UTC 2021
+[00:00:00]: Machine Arch: x86_64
+[00:00:00]: Don't Starve Together: 456207 LINUX
+[00:00:00]: Build Date: 6718
+[00:00:00]: Mode: 32-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -console -persistent_storage_root /home/dstsave -conf_dir dst -cluster dst-saves -shard Master 
+[00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
+[00:00:00]: Initializing distribution platform
+[00:00:00]: ....Done
+[00:00:00]: THREAD - started 'GAClient' (4128086848)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(10999, 27016)
+[00:00:00]: [Steam] SteamGameServer_Init success
+[00:00:00]: ProfileIndex:3.20
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Platform: 1
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: OnLoadPermissionList: /home/dstsave//dst/dst-saves/blocklist.txt (Failure)
+[00:00:00]: OnLoadPermissionList: /home/dstsave//dst/dst-saves/adminlist.txt (Failure)
+[00:00:00]: OnLoadUserIdList: /home/dstsave//dst/dst-saves/whitelist.txt (Failure)
+[00:00:00]: THREAD - started 'StreamInput' (4069964608)
+[00:00:00]: THREAD - started 'Ping Job Thread' (4072065856)
+[00:00:00]: Token retrieved from: /home/dstsave//dst/dst-saves/cluster_token.txt
+[00:00:00]: Token retrieved from: /home/dstsave//dst/dst-saves/cluster_token.txt
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:00]:   taskgrouplist:	default	Together	
+[00:00:00]:   taskgrouplist:	classic	Classic	
+[00:00:00]:   taskgrouplist:	cave_default	Underground	
+[00:00:00]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:00]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:00]: running main.lua
+	
+[00:00:00]: loaded modindex	
+[00:00:00]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:01]:  mModsPendingDelete 1378549454 because it is a UGC mod.
+[00:00:01]:  mModsPendingDelete 2189004162 because it is a UGC mod.
+[00:00:01]:  mModsPendingDelete 875994715 because it is a UGC mod.
+[00:00:01]: ... Directory [scripts]
+[00:00:01]: ... File [gemcore.tex]
+[00:00:01]: ... File [modmain.lua]
+[00:00:01]: ... File [modbackendmain.lua]
+[00:00:01]: ... Directory [gemscripts]
+[00:00:01]: ... File [modworldgenmainpostinit.lua]
+[00:00:01]: ... File [modinfo.lua]
+[00:00:01]: ... Directory [images]
+[00:00:01]: ... File [modworldgenmain.lua]
+[00:00:01]: ... File [README.md]
+[00:00:01]: ... File [modfrontendmain.lua]
+[00:00:01]: ... File [modmainpostinit.lua]
+[00:00:01]: ... File [LICENSE]
+[00:00:01]: ... File [gemcore.xml]
+[00:00:01]: ... File [modservercreationmain.lua]
+[00:00:01]: ... Directory [components]
+[00:00:01]: ... Directory [widgets]
+[00:00:01]: ... File [backendmainloader.lua]
+[00:00:01]: ... Directory [prefabs]
+[00:00:01]: ... File [frontendmainloader.lua]
+[00:00:01]: ... File [shard_regenerate.lua]
+[00:00:01]: ... File [gemdict_craftinginfo.lua]
+[00:00:01]: ... File [shard_report.lua]
+[00:00:01]: ... File [server_info.lua]
+[00:00:01]: DelDirectory [../mods/workshop-1378549454/scripts/components] 0: ok.
+[00:00:01]: ... File [gemdictingredientui.lua]
+[00:00:01]: DelDirectory [../mods/workshop-1378549454/scripts/widgets] 0: ok.
+[00:00:01]: ... File [assetloader.lua]
+[00:00:01]: DelDirectory [../mods/workshop-1378549454/scripts/prefabs] 0: ok.
+[00:00:01]: DelDirectory [../mods/workshop-1378549454/scripts] 0: ok.
+[00:00:01]: ... Directory [maths]
+[00:00:01]: ... File [modconfigmanager.lua]
+[00:00:01]: ... File [globalpause_patches.lua]
+[00:00:01]: ... File [hooks.lua]
+[00:00:01]: ... Directory [map]
+[00:00:01]: ... File [sim.lua]
+[00:00:01]: ... File [stringutils.lua]
+[00:00:01]: ... File [binarystring.lua]
+[00:00:01]: ... File [worldgenoptiontypes.lua]
+[00:00:01]: ... File [memspikefix.lua]
+[00:00:01]: ... File [legacy_modmain.lua]
+[00:00:01]: ... Directory [tools]
+[00:00:01]: ... File [legacy_modbackendmain.lua]
+[00:00:01]: ... File [tableutils.lua]
+[00:00:01]: ... Directory [mapexpander]
+[00:00:01]: ... File [line.lua]
+[00:00:01]: ... File [gemrun.lua]
+[00:00:01]: ... File [assetloader.lua]
+[00:00:01]: ... File [bit.lua]
+[00:00:01]: ... File [worldseedhelper.lua]
+[00:00:01]: ... File [legacy_modfrontendmain.lua]
+[00:00:01]: ... Directory [gemdictionary]
+[00:00:01]: ... File [VecCommon.lua]
+[00:00:01]: ... File [Vec3.lua]
+[00:00:01]: ... File [Vec2.lua]
+[00:00:01]: ... File [mathutils.lua]
+[00:00:01]: ... File [Matrix4.lua]
+[00:00:01]: ... File [Vec4.lua]
+[00:00:01]: DelDirectory [../mods/workshop-1378549454/gemscripts/maths] 0: ok.
+[00:00:01]: ... File [maptagger.lua]
+[00:00:01]: DelDirectory [../mods/workshop-1378549454/gemscripts/map] 0: ok.
+[00:00:01]: ... File [localvariablehacker.lua]
+[00:00:01]: ... File [dynamictilemanager.lua]
+[00:00:01]: ... File [physicscollisions.lua]
+[00:00:01]: ... File [krampednaughtiness.lua]
+[00:00:01]: ... File [misc.lua]
+[00:00:01]: ... File [soundmanager.lua]
+[00:00:01]: ... File [shardrpc.lua]
+[00:00:01]: ... File [specialprefabspawner.lua]
+[00:00:01]: ... File [runtimecomponents.lua]
+[00:00:01]: ... File [clientrpc.lua]
+[00:00:01]: ... File [upvaluehacker.lua]
+[00:00:01]: ... File [originaltiles.lua]
+[00:00:01]: ... File [componentspoofer.lua]
+[00:00:01]: ... File [fnhider.lua]
+[00:00:01]: ... File [customtechtree.lua]
+[00:00:01]: ... File [globalmetatable.lua]
+[00:00:01]: ... File [frontendhelper.lua]
+[00:00:01]: ... File [worldgenoptions.lua]
+[00:00:01]: DelDirectory [../mods/workshop-1378549454/gemscripts/tools] 0: ok.
+[00:00:01]: ... File [mapexpander.lua]
+[00:00:01]: ... File [mapmerger.lua]
+[00:00:01]: DelDirectory [../mods/workshop-1378549454/gemscripts/mapexpander] 0: ok.
+[00:00:01]: ... File [recipe.lua]
+[00:00:01]: ... File [ingredient.lua]
+[00:00:01]: ... File [gemdict.lua]
+[00:00:01]: ... File [loot.lua]
+[00:00:01]: ... File [product.lua]
+[00:00:01]: ... File [ingredientallocator.lua]
+[00:00:01]: ... File [ui.lua]
+[00:00:01]: DelDirectory [../mods/workshop-1378549454/gemscripts/gemdictionary] 0: ok.
+[00:00:01]: DelDirectory [../mods/workshop-1378549454/gemscripts] 0: ok.
+[00:00:01]: ... File [world_seed.tex]
+[00:00:01]: ... File [gemdict_ui.tex]
+[00:00:01]: ... File [world_seed.xml]
+[00:00:01]: ... File [gemdict_ui.xml]
+[00:00:01]: DelDirectory [../mods/workshop-1378549454/images] 0: ok.
+[00:00:01]: DelDirectory [../mods/workshop-1378549454] 0: ok.
+[00:00:01]: ... Directory [notes]
+[00:00:01]: ... File [modicon.xml]
+[00:00:01]: ... Directory [scripts]
+[00:00:01]: ... Directory [anim]
+[00:00:01]: ... File [modmain.lua]
+[00:00:01]: ... Directory [details]
+[00:00:01]: ... File [modinfo.lua]
+[00:00:01]: ... File [modinfo_old.lua]
+[00:00:01]: ... Directory [images]
+[00:00:01]: ... File [modicon.tex]
+[00:00:01]: ... File [modworldgenmain.lua]
+[00:00:01]: ... File [README.md]
+[00:00:01]: ... File [LICENSE]
+[00:00:01]: ... File [TheSim.txt]
+[00:00:01]: ... File [Map.txt]
+[00:00:01]: ... File [TwitchOptions.txt]
+[00:00:01]: ... File [Network.txt]
+[00:00:01]: ... File [modinfo_T_testing.lua]
+[00:00:01]: ... File [ItemServerProxy.txt]
+[00:00:01]: ... File [notes.txt]
+[00:00:01]: ... File [MiniMapEntity.txt]
+[00:00:01]: ... File [MapExplorer.txt]
+[00:00:01]: ... File [ConsoleStuff.txt]
+[00:00:01]: ... File [TheNet.txt]
+[00:00:01]: ... File [InventoryProxy.txt]
+[00:00:01]: ... File [TheSystemService.txt]
+[00:00:01]: ... File [InputProxy.txt]
+[00:00:01]: ... File [MiniMap.txt]
+[00:00:01]: ... File [TheShard.txt]
+[00:00:01]: ... File [debuff_old.txt]
+[00:00:01]: ... File [UIAnim_AnimState.txt]
+[00:00:01]: DelDirectory [../mods/workshop-2189004162/notes] 0: ok.
+[00:00:01]: ... File [assets.lua]
+[00:00:01]: ... File [util.lua]
+[00:00:01]: ... File [indicators.lua]
+[00:00:01]: ... Directory [descriptors]
+[00:00:01]: ... File [time.lua]
+[00:00:01]: ... File [import.lua]
+[00:00:01]: ... File [rpcnetwork.lua]
+[00:00:01]: ... File [netvars.lua]
+[00:00:01]: ... Directory [language]
+[00:00:01]: ... Directory [screens]
+[00:00:01]: ... Directory [components]
+[00:00:01]: ... Directory [widgets]
+[00:00:01]: ... Directory [prefabs]
+[00:00:01]: ... File [clientmodmain.lua]
+[00:00:01]: ... Directory [prefab_descriptors]
+[00:00:01]: ... File [uioverrides.lua]
+[00:00:01]: ... Directory [helpers]
+[00:00:01]: ... File [highlighting.lua]
+[00:00:01]: ... File [entitymanager.lua]
+[00:00:01]: ... File [reader.lua]
+[00:00:01]: ... File [pickable.lua]
+[00:00:01]: ... File [unwrappable.lua]
+[00:00:01]: ... File [follower.lua]
+[00:00:01]: ... File [quaker.lua]
+[00:00:01]: ... File [perishable.lua]
+[00:00:01]: ... File [teacher.lua]
+[00:00:01]: ... File [container.lua]
+[00:00:01]: ... File [sanityaura.lua]
+[00:00:01]: ... File [questowner.lua]
+[00:00:01]: ... File [sinkholespawner.lua]
+[00:00:01]: ... File [chessnavy.lua]
+[00:00:01]: ... File [preservative.lua]
+[00:00:01]: ... File [fishable.lua]
+[00:00:01]: ... File [drivable.lua]
+[00:00:01]: ... File [basehassler.lua]
+[00:00:01]: ... File [friendlevels.lua]
+[00:00:01]: ... File [temperature.lua]
+[00:00:01]: ... File [krakener.lua]
+[00:00:01]: ... File [wintertreegiftable.lua]
+[00:00:01]: ... File [hounded.lua]
+[00:00:01]: ... File [skinner_beefalo.lua]
+[00:00:01]: ... File [dryer.lua]
+[00:00:01]: ... File [tool.lua]
+[00:00:01]: ... File [weapon.lua]
+[00:00:01]: ... File [sanity.lua]
+[00:00:01]: ... File [breeder.lua]
+[00:00:01]: ... File [caveweather.lua]
+[00:00:01]: ... File [waterproofer.lua]
+[00:00:01]: ... File [wereness.lua]
+[00:00:01]: ... File [wateryprotection.lua]
+[00:00:01]: ... File [worldmigrator.lua]
+[00:00:01]: ... File [farmsoildrinker.lua]
+[00:00:01]: ... File [fillable.lua]
+[00:00:01]: ... File [armor.lua]
+[00:00:01]: ... File [toadstoolspawner.lua]
+[00:00:01]: ... File [crittertraits.lua]
+[00:00:01]: ... File [periodicthreat.lua]
+[00:00:01]: ... File [tigersharker.lua]
+[00:00:01]: ... File [dapperness.lua]
+[00:00:01]: ... File [farmplantable.lua]
+[00:00:01]: ... File [stewer.lua]
+[00:00:01]: ... File [domesticatable.lua]
+[00:00:01]: ... File [equippable.lua]
+[00:00:01]: ... File [health.lua]
+[00:00:01]: ... File [growable.lua]
+[00:00:01]: ... File [insulator.lua]
+[00:00:01]: ... File [appeasement.lua]
+[00:00:01]: ... File [pollinator.lua]
+[00:00:01]: ... File [timer.lua]
+[00:00:01]: ... File [beard.lua]
+[00:00:01]: ... File [crabkingspawner.lua]
+[00:00:01]: ... File [spawner.lua]
+[00:00:01]: ... File [watersource.lua]
+[00:00:01]: ... File [debuffable.lua]
+[00:00:01]: ... File [inspectable.lua]
+[00:00:01]: ... File [deerclopsspawner.lua]
+[00:00:01]: ... File [volcanomanager.lua]
+[00:00:01]: ... File [malbatrossspawner.lua]
+[00:00:01]: ... File [mermcandidate.lua]
+[00:00:01]: ... File [wintersfeasttable.lua]
+[00:00:01]: ... File [diseaseable.lua]
+[00:00:01]: ... File [fishingrod.lua]
+[00:00:01]: ... File [herdmember.lua]
+[00:00:01]: ... File [moisture.lua]
+[00:00:01]: ... File [weighable.lua]
+[00:00:01]: ... File [explosiveresist.lua]
+[00:00:01]: ... File [nightmareclock.lua]
+[00:00:01]: ... File [farming_manager.lua]
+[00:00:01]: ... File [hunger.lua]
+[00:00:01]: ... File [petrifiable.lua]
+[00:00:01]: ... File [yotb_stager.lua]
+[00:00:01]: ... File [cooldown.lua]
+[00:00:01]: ... File [occupier.lua]
+[00:00:01]: ... File [explosive.lua]
+[00:00:01]: ... File [citypossession.lua]
+[00:00:01]: ... File [witherable.lua]
+[00:00:01]: ... File [mermkingmanager.lua]
+[00:00:01]: ... File [upgradeable.lua]
+[00:00:01]: ... File [occupiable.lua]
+[00:00:01]: ... File [healer.lua]
+[00:00:01]: ... File [mast.lua]
+[00:00:01]: ... File [klaussackspawner.lua]
+[00:00:01]: ... File [boathealth.lua]
+[00:00:01]: ... File [repairable.lua]
+[00:00:01]: ... File [locomotor.lua]
+[00:00:01]: ... File [soul.lua]
+[00:00:01]: ... File [fertilizer.lua]
+[00:00:01]: ... File [combat.lua]
+[00:00:01]: ... File [oar.lua]
+[00:00:01]: ... File [fuel.lua]
+[00:00:01]: ... File [stickable.lua]
+[00:00:01]: ... File [hatchable.lua]
+[00:00:01]: ... File [appraisable.lua]
+[00:00:01]: ... File [leader.lua]
+[00:00:01]: ... File [yotb_sewer.lua]
+[00:00:01]: ... File [example.lua]
+[00:00:01]: ... File [madsciencelab.lua]
+[00:00:01]: ... File [harvestable.lua]
+[00:00:01]: ... File [batted.lua]
+[00:00:01]: ... File [repairer.lua]
+[00:00:01]: ... File [crop.lua]
+[00:00:01]: ... File [beargerspawner.lua]
+[00:00:01]: ... File [rocmanager.lua]
+[00:00:01]: ... File [weather.lua]
+[00:00:01]: ... File [farmplantstress.lua]
+[00:00:01]: ... File [burnable.lua]
+[00:00:01]: ... File [finiteuses.lua]
+[00:00:01]: ... File [forcecompostable.lua]
+[00:00:01]: ... File [grower.lua]
+[00:00:01]: ... File [hackable.lua]
+[00:00:01]: ... File [aporkalypse.lua]
+[00:00:01]: ... File [edible.lua]
+[00:00:01]: ... File [hitchable.lua]
+[00:00:01]: ... File [kramped.lua]
+[00:00:01]: ... File [fueled.lua]
+[00:00:01]: ... File [bloomness.lua]
+[00:00:01]: ... File [tradable.lua]
+[00:00:01]: DelDirectory [../mods/workshop-2189004162/scripts/descriptors] 0: ok.
+[00:00:01]: ... File [language.lua]
+[00:00:01]: ... File [icons.lua]
+[00:00:01]: ... File [english.lua]
+[00:00:01]: ... File [english_modinfo.lua]
+[00:00:01]: ... File [chinese.lua]
+[00:00:01]: DelDirectory [../mods/workshop-2189004162/scripts/language] 0: ok.
+[00:00:01]: ... File [insightdangerscreen.lua]
+[00:00:01]: ... File [insightservercrash.lua]
+[00:00:02]: ... File [insightmenuscreen.lua]
+[00:00:02]: DelDirectory [../mods/workshop-2189004162/scripts/screens] 0: ok.
+[00:00:02]: ... File [shard_insight.lua]
+[00:00:02]: ... File [insight.lua]
+[00:00:02]: ... File [insight_replica.lua]
+[00:00:02]: ... File [dst_deployhelper.lua]
+[00:00:02]: DelDirectory [../mods/workshop-2189004162/scripts/components] 0: ok.
+[00:00:02]: ... File [insightplayerhoverer.lua]
+[00:00:02]: ... File [text_lib.lua]
+[00:00:02]: ... File [insight_targetindicator.lua]
+[00:00:02]: ... File [insightmenu.lua]
+[00:00:02]: ... File [insightpage.lua]
+[00:00:02]: ... File [RichText.lua]
+[00:00:02]: ... File [insightbutton.lua]
+[00:00:02]: ... File [imagebutton_lib.lua]
+[00:00:02]: ... File [image_lib.lua]
+[00:00:02]: ... File [itemdetails.lua]
+[00:00:02]: ... File [crashreportstatus.lua]
+[00:00:02]: ... File [itemdetail.lua]
+[00:00:02]: DelDirectory [../mods/workshop-2189004162/scripts/widgets] 0: ok.
+[00:00:02]: ... File [insight_prefab.lua]
+[00:00:02]: ... File [insight_map_marker.lua]
+[00:00:02]: ... File [insight_range_indicator.lua]
+[00:00:02]: DelDirectory [../mods/workshop-2189004162/scripts/prefabs] 0: ok.
+[00:00:02]: ... File [atrium_gate.lua]
+[00:00:02]: DelDirectory [../mods/workshop-2189004162/scripts/prefab_descriptors] 0: ok.
+[00:00:02]: ... File [color.lua]
+[00:00:02]: ... File [controls.lua]
+[00:00:02]: ... File [debuff.lua]
+[00:00:02]: ... File [yotb.lua]
+[00:00:02]: ... File [farming.lua]
+[00:00:02]: DelDirectory [../mods/workshop-2189004162/scripts/helpers] 0: ok.
+[00:00:02]: DelDirectory [../mods/workshop-2189004162/scripts] 0: ok.
+[00:00:02]: ... File [range_tweak.zip]
+[00:00:02]: ... File [range_tweak2.zip]
+[00:00:02]: DelDirectory [../mods/workshop-2189004162/anim] 0: ok.
+[00:00:02]: ... File [chinese_description.md]
+[00:00:02]: DelDirectory [../mods/workshop-2189004162/details] 0: ok.
+[00:00:02]: ... File [Volcano.xml]
+[00:00:02]: ... File [Whale_Bubbles.tex]
+[00:00:02]: ... File [Lordfruitfly.xml]
+[00:00:02]: ... File [Sanity_Arrow.tex]
+[00:00:02]: ... File [Ancient_Herald.xml]
+[00:00:02]: ... File [Roc.xml]
+[00:00:02]: ... File [Beequeen.xml]
+[00:00:02]: ... File [Hunger_Meter.tex]
+[00:00:02]: ... File [Koalefant_Summer.tex]
+[00:00:02]: ... File [Ancient_Hulk.xml]
+[00:00:02]: ... File [Antqueen.tex]
+[00:00:02]: ... File [Pocket_Scale.tex]
+[00:00:02]: ... File [Moose.xml]
+[00:00:02]: ... File [Pigcrownhat.xml]
+[00:00:02]: ... File [Oar.xml]
+[00:00:02]: ... File [Weather_Settings_Icon.tex]
+[00:00:02]: ... File [Ancient_Hulk.tex]
+[00:00:02]: ... File [Enlightenment_Meter.tex]
+[00:00:02]: ... File [Aporkalypse_Clock.tex]
+[00:00:02]: ... File [Whale_White.tex]
+[00:00:02]: ... File [Whale_Bubbles.xml]
+[00:00:02]: ... File [Spiderqueen.xml]
+[00:00:02]: ... File [Sanity_Arrow.xml]
+[00:00:02]: ... File [Ancient_Robot_Head.xml]
+[00:00:02]: ... File [Chester_Eyebone.xml]
+[00:00:02]: ... File [Ancient_Robot_Leg.tex]
+[00:00:02]: ... File [Nightmare_timepiece_dawn.xml]
+[00:00:02]: ... File [Crabking.xml]
+[00:00:02]: ... File [Pigcrownhat.tex]
+[00:00:02]: ... File [Depths_Worm.xml]
+[00:00:02]: ... File [Ancient_Robot_Ribs.xml]
+[00:00:02]: ... File [images.tex]
+[00:00:02]: ... File [Gingerbreadpig.xml]
+[00:00:02]: ... File [Tigershark.xml]
+[00:00:02]: ... File [Koalefant_Winter.tex]
+[00:00:02]: ... File [Volcano_Active.xml]
+[00:00:02]: ... File [Ancient_Robot_Claw.xml]
+[00:00:02]: ... File [Hunger_Meter.xml]
+[00:00:02]: ... File [Health_Meter.tex]
+[00:00:02]: ... File [Arrow.tex]
+[00:00:02]: ... File [Claywarg.tex]
+[00:00:02]: ... File [Stalker_Forest.tex]
+[00:00:02]: ... File [Kraken.xml]
+[00:00:02]: ... File [ladybolt.tex]
+[00:00:02]: ... File [Magnifying_Glass.tex]
+[00:00:02]: ... File [Twister.tex]
+[00:00:02]: ... File [Claywarg.xml]
+[00:00:02]: ... File [Frog.xml]
+[00:00:02]: ... File [Ancient_Robot_Claw.tex]
+[00:00:02]: ... File [Gingerbreadwarg.xml]
+[00:00:02]: ... File [Koalefant_Summer.xml]
+[00:00:02]: ... File [Stalker_Atrium.xml]
+[00:00:02]: ... File [Treeguard.xml]
+[00:00:02]: ... File [Toadstool.xml]
+[00:00:02]: ... File [Mermking.xml]
+[00:00:02]: ... File [Wetness_Meter.xml]
+[00:00:02]: ... File [Antlion.xml]
+[00:00:02]: ... File [Dragonfly.xml]
+[00:00:02]: ... File [Leif_Sparse.tex]
+[00:00:02]: ... File [images.xml]
+[00:00:02]: ... File [Koalefant_Winter.xml]
+[00:00:02]: ... File [Chester_Eyebone.tex]
+[00:00:02]: ... File [Pocket_Scale.xml]
+[00:00:02]: ... File [Atrium_Gate.xml]
+[00:00:02]: ... File [Lightninggoat.xml]
+[00:00:02]: ... File [Stalker.xml]
+[00:00:02]: ... File [Knightboat.tex]
+[00:00:02]: ... File [Oar_Force.tex]
+[00:00:02]: ... File [Warg.tex]
+[00:00:02]: ... File [Leif.xml]
+[00:00:02]: ... Directory [minimap]
+[00:00:02]: ... File [Bearger.tex]
+[00:00:02]: ... File [Frog.tex]
+[00:00:02]: ... File [Twister.xml]
+[00:00:02]: ... File [Tigershark.tex]
+[00:00:02]: ... File [Antqueen.xml]
+[00:00:02]: ... File [Hound.tex]
+[00:00:02]: ... File [Whale_White.xml]
+[00:00:02]: ... File [Leif_Sparse.xml]
+[00:00:02]: ... File [Crown.tex]
+[00:00:02]: ... Directory [food_types]
+[00:00:02]: ... File [minimap.xml]
+[00:00:02]: ... File [Oar_Force.xml]
+[00:00:02]: ... File [Krampus.tex]
+[00:00:02]: ... File [White_Square.tex]
+[00:00:02]: ... File [Enlightenment_Meter.xml]
+[00:00:02]: ... File [Toadstool.tex]
+[00:00:02]: ... File [Moose.tex]
+[00:00:02]: ... File [Arrow_Down.xml]
+[00:00:02]: ... File [ladybolt.xml]
+[00:00:02]: ... File [Klaus.tex]
+[00:00:02]: ... File [Mermking.tex]
+[00:00:02]: ... File [Health_Meter.xml]
+[00:00:02]: ... File [Stalker.tex]
+[00:00:02]: ... File [Whale_Blue.xml]
+[00:00:02]: ... File [Nightmare_timepiece_dawn.tex]
+[00:00:02]: ... File [Twister_Seal.tex]
+[00:00:02]: ... File [Vampirebat.xml]
+[00:00:02]: ... File [Antlion.tex]
+[00:00:02]: ... File [Magnifying_Glass.xml]
+[00:00:02]: ... File [Stalker_Forest.xml]
+[00:00:02]: ... File [Stalker_Atrium.tex]
+[00:00:02]: ... File [Spiderqueen.tex]
+[00:00:02]: ... File [Ancient_Robot_Head.tex]
+[00:00:02]: ... File [Gingerbreadpig.tex]
+[00:00:02]: ... File [Dragonfly.tex]
+[00:00:02]: ... File [Dirtpile.xml]
+[00:00:02]: ... File [Twister_Seal.xml]
+[00:00:02]: ... File [Beequeen.tex]
+[00:00:02]: ... File [Pugalisk.tex]
+[00:00:02]: ... File [Sanity_Meter.xml]
+[00:00:02]: ... File [Vampirebat.tex]
+[00:00:02]: ... File [Ancient_Robot_Ribs.tex]
+[00:00:02]: ... File [Klaus_Sack.xml]
+[00:00:02]: ... File [Spat.xml]
+[00:00:02]: ... File [Dirtpile.tex]
+[00:00:02]: ... File [Crown.xml]
+[00:00:02]: ... File [Weather_Settings_Icon.xml]
+[00:00:02]: ... File [Stopwatch.xml]
+[00:00:02]: ... File [Arrow_Down.tex]
+[00:00:02]: ... File [White_Rounded.tex]
+[00:00:02]: ... File [Oar.tex]
+[00:00:02]: ... File [Lordfruitfly.tex]
+[00:00:02]: ... File [Crocodog.xml]
+[00:00:02]: ... File [Depths_Worm.tex]
+[00:00:02]: ... File [Hound.xml]
+[00:00:02]: ... File [Lightninggoat.tex]
+[00:00:02]: ... File [Volcano.tex]
+[00:00:02]: ... File [Klaus.xml]
+[00:00:02]: ... File [Hutch_Fishbowl.xml]
+[00:00:02]: ... File [Sanity_Meter.tex]
+[00:00:02]: ... File [Warg.xml]
+[00:00:02]: ... File [White_Rounded.xml]
+[00:00:02]: ... File [Leif.tex]
+[00:00:02]: ... File [Aporkalypse_Clock.xml]
+[00:00:02]: ... File [Deerclops.tex]
+[00:00:02]: ... File [Deerclops.xml]
+[00:00:02]: ... File [Minotaur.tex]
+[00:00:02]: ... File [Ancient_Robot_Leg.xml]
+[00:00:02]: ... File [Treeguard.tex]
+[00:00:02]: ... File [Knightboat.xml]
+[00:00:02]: ... File [Wetness_Meter.tex]
+[00:00:02]: ... File [Atrium_Gate.tex]
+[00:00:02]: ... File [Gingerbreadwarg.tex]
+[00:00:02]: ... File [Bearger.xml]
+[00:00:02]: ... File [Malbatross.xml]
+[00:00:02]: ... File [White_Square.xml]
+[00:00:02]: ... File [Blueprint.tex]
+[00:00:02]: ... File [Crabking.tex]
+[00:00:02]: ... File [Hutch_Fishbowl.tex]
+[00:00:02]: ... File [Whale_Blue.tex]
+[00:00:02]: ... File [minimap.tex]
+[00:00:02]: ... File [Klaus_Sack.tex]
+[00:00:02]: ... File [Minotaur.xml]
+[00:00:02]: ... File [Roc.tex]
+[00:00:02]: ... File [Malbatross.tex]
+[00:00:02]: ... File [Volcano_Active.tex]
+[00:00:02]: ... File [Kraken.tex]
+[00:00:02]: ... File [Arrow.xml]
+[00:00:02]: ... File [Krampus.xml]
+[00:00:02]: ... File [Spat.tex]
+[00:00:02]: ... File [Pugalisk.xml]
+[00:00:02]: ... File [Ancient_Herald.tex]
+[00:00:02]: ... File [Blueprint.xml]
+[00:00:02]: ... File [Stopwatch.tex]
+[00:00:02]: ... File [Crocodog.tex]
+[00:00:02]: ... Directory [dst]
+[00:00:02]: ... Directory [sinkholes]
+[00:00:02]: ... File [Possible_Klaus_Sack.tex]
+[00:00:02]: ... File [Possible_Klaus_Sack.xml]
+[00:00:02]: ... File [cave_open_green.pdn]
+[00:00:02]: ... File [cave_open2_blue.pdn]
+[00:00:02]: ... File [cave_open_red.pdn]
+[00:00:02]: ... File [cave_open.pdn]
+[00:00:02]: ... File [cave_open_yellow.pdn]
+[00:00:02]: ... File [sinkholes.xml]
+[00:00:02]: ... File [cave_open2_white.pdn]
+[00:00:02]: ... File [cave_open2_pink.pdn]
+[00:00:02]: ... File [cave_open_pink.pdn]
+[00:00:02]: ... File [cave_open2_orange.pdn]
+[00:00:02]: ... File [cave_open2_black.pdn]
+[00:00:02]: ... File [cave_open2_cyan.pdn]
+[00:00:02]: ... File [adjustments.txt]
+[00:00:02]: ... File [cave_open_purple.pdn]
+[00:00:02]: ... File [cave_open_orange.pdn]
+[00:00:02]: ... File [cave_open2_yellow.pdn]
+[00:00:02]: ... File [cave_open_black.pdn]
+[00:00:02]: ... File [cave_open_white.pdn]
+[00:00:02]: ... File [cave_open2.pdn]
+[00:00:02]: ... File [cave_open2_purple.pdn]
+[00:00:02]: ... File [sinkholes.tex]
+[00:00:02]: ... File [cave_open_blue.pdn]
+[00:00:02]: ... File [cave_open2_green.pdn]
+[00:00:02]: ... File [cave_open_cyan.pdn]
+[00:00:02]: ... File [cave_open2_red.pdn]
+[00:00:02]: DelDirectory [../mods/workshop-2189004162/images/minimap/sinkholes] 0: ok.
+[00:00:02]: DelDirectory [../mods/workshop-2189004162/images/minimap] 0: ok.
+[00:00:02]: ... File [Meats.xml]
+[00:00:02]: ... File [food_types.tex]
+[00:00:02]: ... File [Inedible.xml]
+[00:00:02]: ... File [Fishes.xml]
+[00:00:02]: ... File [Bugs.xml]
+[00:00:02]: ... File [Sweetener.xml]
+[00:00:02]: ... File [Monster_Foods.xml]
+[00:00:02]: ... File [Inedible.tex]
+[00:00:02]: ... File [food_types.xml]
+[00:00:02]: ... File [Fruit.xml]
+[00:00:02]: ... File [Fat.xml]
+[00:00:02]: ... File [Eggs.xml]
+[00:00:02]: ... File [Dairy.xml]
+[00:00:02]: ... File [Vegetable.xml]
+[00:00:02]: DelDirectory [../mods/workshop-2189004162/images/food_types] 0: ok.
+[00:00:02]: ... File [scoreboard.tex]
+[00:00:02]: ... File [frontend_redux.tex]
+[00:00:02]: ... File [global_redux.xml]
+[00:00:02]: ... File [scoreboard.xml]
+[00:00:02]: ... File [frontend_redux.xml]
+[00:00:02]: ... File [avatars.tex]
+[00:00:02]: ... File [global_redux.tex]
+[00:00:02]: ... File [avatars.xml]
+[00:00:02]: DelDirectory [../mods/workshop-2189004162/images/dst] 0: ok.
+[00:00:02]: DelDirectory [../mods/workshop-2189004162/images] 0: ok.
+[00:00:02]: DelDirectory [../mods/workshop-2189004162] 0: ok.
+[00:00:02]: ... Directory [scripts]
+[00:00:02]: ... File [dedicated_server_mods_setup.lua]
+[00:00:02]: ... File [modmain.lua]
+[00:00:02]: ... File [modinfo.lua]
+[00:00:02]: ... Directory [images]
+[00:00:02]: ... File [icon.tex]
+[00:00:02]: ... File [icon.xml]
+[00:00:02]: ... File [waffles.lua]
+[00:00:02]: ... Directory [prefabs]
+[00:00:02]: ... File [dragonfurnace_projectile.lua]
+[00:00:02]: DelDirectory [../mods/workshop-875994715/scripts/prefabs] 0: ok.
+[00:00:02]: DelDirectory [../mods/workshop-875994715/scripts] 0: ok.
+[00:00:02]: ... Directory [hud]
+[00:00:02]: ... File [dragonfurnace_slot.xml]
+[00:00:02]: ... File [dragonfurnace_slot.tex]
+[00:00:02]: DelDirectory [../mods/workshop-875994715/images/hud] 0: ok.
+[00:00:02]: DelDirectory [../mods/workshop-875994715/images] 0: ok.
+[00:00:02]: DelDirectory [../mods/workshop-875994715] 0: ok.
+[00:00:02]: DownloadPublishedFile [0] 1378549454
+[00:00:02]: DownloadPublishedFile [0] 2189004162
+[00:00:02]: DownloadPublishedFile [0] 875994715
+[00:00:04]: OnDownloadPublishedFile [1] 1378549454
+[00:00:06]: OnDownloadPublishedFile [1] 2189004162
+[00:00:07]: OnDownloadPublishedFile [1] 875994715
+[00:00:07]: Saving upgraded shardindex	
+[00:00:07]: SUCCESS: Loaded modoverrides.lua	
+[00:00:07]: modoverrides.lua enabling workshop-1530801499	
+[00:00:07]: modoverrides.lua enabling workshop-1378549454	
+[00:00:07]: modoverrides.lua enabling workshop-378160973	
+[00:00:07]: modoverrides.lua enabling workshop-786556008	
+[00:00:07]: modoverrides.lua enabling workshop-2189004162	
+[00:00:07]: modoverrides.lua enabling workshop-1113081094	
+[00:00:07]: modoverrides.lua enabling workshop-1079538195	
+[00:00:07]: modoverrides.lua enabling workshop-1546204443	
+[00:00:07]: modoverrides.lua enabling workshop-875994715	
+[00:00:07]: modoverrides.lua enabling workshop-661253977	
+[00:00:07]: modoverrides.lua enabling workshop-375850593	
+[00:00:07]: modoverrides.lua enabling workshop-1185229307	
+[00:00:07]: modoverrides.lua enabling workshop-466732225	
+[00:00:07]: modoverrides.lua enabling workshop-676297854	
+[00:00:07]: modoverrides.lua enabling workshop-462469447	
+[00:00:07]: modoverrides.lua enabling workshop-396026892	
+[00:00:07]: modoverrides.lua enabling workshop-1595631294	
+[00:00:07]: modoverrides.lua enabling workshop-375859599	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-786556008	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-676297854	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375850593	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1530801499	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1185229307	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1546204443	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1079538195	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-396026892	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-661253977	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-462469447	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1113081094	
+[00:00:07]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-875994715	
+[00:00:07]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2189004162	
+[00:00:07]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1378549454	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-375859599_CLIENT	
+[00:00:07]: Loading mod: workshop-375859599 (Health Info) Version:2.2.00	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-786556008_CLIENT	
+[00:00:07]: Loading mod: workshop-786556008 (45 Inventory Slots) Version:1.4.1	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-676297854_CLIENT	
+[00:00:07]: Loading mod: workshop-676297854 (Fire resurrection) Version:v2.6	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[00:00:07]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-375850593_CLIENT	
+[00:00:07]: Loading mod: workshop-375850593 (Extra Equip Slots) Version:1.8.0	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-1530801499_CLIENT	
+[00:00:07]: Loading mod: workshop-1530801499 (Fast Travel (GUI)) Version:1.06	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-1185229307_CLIENT	
+[00:00:07]: Loading mod: workshop-1185229307 (Epic Healthbar) Version:6.1	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-1546204443_CLIENT	
+[00:00:07]: Loading mod: workshop-1546204443 (Hamlet Turfs) Version:1.0.3	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-1079538195_CLIENT	
+[00:00:07]: Loading mod: workshop-1079538195 (Moving Box) Version:1.1.1	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-1595631294_CLIENT	
+[00:00:07]: Loading mod: workshop-1595631294 (Smart Minisign) Version:1.1.5	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-396026892_CLIENT	
+[00:00:07]: Loading mod: workshop-396026892 (Large Chest) Version:1.1.1	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-466732225_CLIENT	
+[00:00:07]: Loading mod: workshop-466732225 (No Thermal Stone Durability) Version:full 4	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-661253977_CLIENT	
+[00:00:07]: Loading mod: workshop-661253977 ( Don't Drop Everything) Version:11:15 2020-08-10	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-462469447_CLIENT	
+[00:00:07]: Loading mod: workshop-462469447 (Map Discovery Sharing) Version:1.0	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-1113081094_CLIENT	
+[00:00:07]: Loading mod: workshop-1113081094 (

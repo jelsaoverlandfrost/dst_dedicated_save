@@ -1,0 +1,15 @@
+[00:03:52]: [Join Announcement] jelsaoverlandfrost
+[00:04:57]: [Join Announcement] MissGiovanna
+[00:10:25]: [Leave Announcement] MissGiovanna
+[00:12:48]: [Join Announcement] MissGiovanna
+[00:31:08]: [Leave Announcement] jelsaoverlandfrost
+[00:38:28]: [Join Announcement] jelsaoverlandfrost
+[00:57:43]: [Skin Announcement] MissGiovanna shovel_northern
+[01:06:52]: [Leave Announcement] MissGiovanna
+[01:08:01]: [Skin Announcement] jelsaoverlandfrost feet_captoe_shoe_brown_beaver
+[01:08:22]: [Leave Announcement] jelsaoverlandfrost
+[04:48:11]: [Join Announcement] jelsaoverlandfrost
+[04:48:37]: [Join Announcement] MissGiovanna
+[05:39:18]: [Vote Announcement] rollback passed
+[05:43:36]: [Vote Announcement] rollback passed
+[05:44:45]: [Skin Announcement] MissGiovanna legs_checkered_pleats_orange_lumberjack

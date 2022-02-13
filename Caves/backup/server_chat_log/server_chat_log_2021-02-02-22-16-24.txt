@@ -1,0 +1,11 @@
+[00:02:32]: [Join Announcement] jelsaoverlandfrost
+[00:27:40]: [Skin Announcement] jelsaoverlandfrost hand_longgloves_red_ruby
+[00:47:46]: [Join Announcement] MissGiovanna
+[00:54:39]: [Leave Announcement] MissGiovanna
+[01:01:03]: [Join Announcement] MissGiovanna
+[01:05:53]: [Leave Announcement] MissGiovanna
+[01:07:21]: [Leave Announcement] jelsaoverlandfrost
+[01:16:50]: [Join Announcement] jelsaoverlandfrost
+[01:45:29]: [Skin Announcement] jelsaoverlandfrost legs_skirt_plaid_purple_lavender
+[02:42:27]: [Leave Announcement] jelsaoverlandfrost
+[00:00:44]: [Join Announcement] jelsaoverlandfrost

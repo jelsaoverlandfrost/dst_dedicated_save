@@ -1,0 +1,7 @@
+[00:00:47]: [Join Announcement] MissGiovanna
+[00:02:43]: [Leave Announcement] MissGiovanna
+[00:03:01]: [Join Announcement] jelsaoverlandfrost
+[00:03:39]: [Join Announcement] MissGiovanna
+[00:32:49]: [Death Announcement] MissGiovanna was killed by Ancient Fuelweaver. He became a spooky ghost!
+[00:33:37]: [Vote Announcement] rollback passed
+[00:34:27]: [Resurrect Announcement] MissGiovanna was resurrected by Fire Pit.

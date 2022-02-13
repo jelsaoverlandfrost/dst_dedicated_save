@@ -1,0 +1,14 @@
+[00:02:24]: [Join Announcement] jelsaoverlandfrost
+[00:02:48]: [Leave Announcement] jelsaoverlandfrost
+[00:08:56]: [Join Announcement] MissGiovanna
+[00:09:06]: [Join Announcement] jelsaoverlandfrost
+[00:10:23]: [Leave Announcement] MissGiovanna
+[00:52:36]: [Join Announcement] MissGiovanna
+[01:05:04]: [Skin Announcement] jelsaoverlandfrost body_overalls_blue_denim
+[01:38:49]: [Announcement] You feel an evil presence watching you...
+[01:38:59]: [Announcement] The Eye of Terror turns its gaze toward jelsaoverlandfrost
+[01:46:36]: [Announcement] You feel an evil presence watching you...
+[01:46:46]: [Announcement] The Eye of Terror turns its gaze toward MissGiovanna
+[02:15:33]: [Skin Announcement] jelsaoverlandfrost hand_drivergloves_tan_grass
+[03:08:08]: [Leave Announcement] jelsaoverlandfrost
+[03:08:53]: [Join Announcement] jelsaoverlandfrost

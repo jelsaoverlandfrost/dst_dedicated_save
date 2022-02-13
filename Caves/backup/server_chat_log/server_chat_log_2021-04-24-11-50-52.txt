@@ -1,0 +1,10 @@
+[00:16:59]: [Join Announcement] MissGiovanna
+[00:17:17]: [Join Announcement] jelsaoverlandfrost
+[01:21:40]: [Death Announcement] MissGiovanna was killed by Dangling Depth Dweller. She became a spooky ghost!
+[01:22:14]: [Resurrect Announcement] MissGiovanna was resurrected by Campfire.
+[01:35:38]: [Skin Announcement] MissGiovanna legs_woodie_hockey
+[01:35:46]: [Skin Announcement] jelsaoverlandfrost feet_captoe_shoe_brown_beaver
+[02:37:40]: [Skin Announcement] MissGiovanna legs_pinstripe_pants_black_jet
+[02:50:44]: [Skin Announcement] jelsaoverlandfrost feet_ankleboot_grey_dark
+[03:02:33]: [Leave Announcement] jelsaoverlandfrost
+[03:02:34]: [Leave Announcement] MissGiovanna

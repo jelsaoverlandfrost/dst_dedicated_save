@@ -1,0 +1,12 @@
+[21:04:04]: [Join Announcement] jelsaoverlandfrost
+[21:04:32]: [Join Announcement] MissGiovanna
+[21:22:56]: [Skin Announcement] MissGiovanna feet_wendy_creepy
+[21:49:21]: [Skin Announcement] jelsaoverlandfrost feet_ankleboot_grey_dark
+[22:11:32]: [Skin Announcement] MissGiovanna feet_wilson_ice
+[22:14:23]: [Death Announcement] MissGiovanna was killed by Frog. She became a spooky ghost!
+[22:14:50]: [Resurrect Announcement] MissGiovanna was resurrected by Fire Pit.
+[22:53:34]: [Skin Announcement] jelsaoverlandfrost legs_skirt_basic_tan_cream
+[23:34:05]: [Vote Announcement] rollback passed
+[23:36:47]: [Skin Announcement] MissGiovanna hand_shortgloves_white_smoke
+[23:46:31]: [Leave Announcement] MissGiovanna
+[23:51:09]: [Leave Announcement] jelsaoverlandfrost

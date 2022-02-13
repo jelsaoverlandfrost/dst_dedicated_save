@@ -1,0 +1,17 @@
+[00:02:35]: [Join Announcement] jelsaoverlandfrost
+[00:03:36]: [Join Announcement] MissGiovanna
+[00:07:46]: [Announcement] This is going to be a terrible night...
+[00:07:56]: [Announcement] The Twins turn their gaze toward jelsaoverlandfrost
+[00:09:30]: [Death Announcement] jelsaoverlandfrost was killed by Spazmatism. He became a spooky ghost!
+[00:09:44]: [Resurrect Announcement] jelsaoverlandfrost was resurrected by Fire Pit.
+[00:10:00]: [Death Announcement] MissGiovanna was killed by Spazmatism. He became a spooky ghost!
+[00:10:10]: [Death Announcement] jelsaoverlandfrost was killed by Spazmatism. He became a spooky ghost!
+[00:10:12]: [Resurrect Announcement] MissGiovanna was resurrected by Fire Pit.
+[00:10:19]: [Resurrect Announcement] jelsaoverlandfrost was resurrected by Fire Pit.
+[00:10:37]: [Death Announcement] MissGiovanna was killed by Spazmatism. He became a spooky ghost!
+[00:10:51]: [Resurrect Announcement] MissGiovanna was resurrected by Fire Pit.
+[00:15:45]: [Announcement] This is going to be a terrible night...
+[00:15:55]: [Announcement] The Twins turn their gaze toward MissGiovanna
+[00:42:36]: [Skin Announcement] jelsaoverlandfrost body_wilson_cook
+[01:18:16]: [Leave Announcement] MissGiovanna
+[01:26:30]: [Leave Announcement] jelsaoverlandfrost

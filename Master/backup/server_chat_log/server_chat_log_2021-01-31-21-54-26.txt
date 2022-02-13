@@ -1,0 +1,29 @@
+[00:03:05]: [Join Announcement] jelsaoverlandfrost
+[00:03:12]: [Join Announcement] 嘤嘤嘤酱
+[00:06:33]: [Say] (KU_uGVY9o6K) jelsaoverlandfrost:  I'll make a battle helm.
+[00:08:56]: [Leave Announcement] jelsaoverlandfrost
+[00:09:09]: [Join Announcement] MissGiovanna
+[00:09:23]: [Leave Announcement] MissGiovanna
+[00:10:22]: [Join Announcement] jelsaoverlandfrost
+[00:12:18]: [Join Announcement] MissGiovanna
+[00:13:42]: [Leave Announcement] MissGiovanna
+[00:17:23]: [Leave Announcement] 嘤嘤嘤酱
+[00:17:44]: [Leave Announcement] jelsaoverlandfrost
+[00:18:23]: [Join Announcement] 嘤嘤嘤酱
+[00:19:09]: [Join Announcement] jelsaoverlandfrost
+[00:22:01]: [Join Announcement] MissGiovanna
+[00:28:51]: [Skin Announcement] 嘤嘤嘤酱 hand_workgloves_brown_chocolate
+[01:22:25]: [Death Announcement] MissGiovanna was killed by Fire. She became a spooky ghost!
+[01:22:30]: [Resurrect Announcement] MissGiovanna was resurrected by Fire Pit.
+[01:24:32]: [Death Announcement] MissGiovanna was killed by Dragonfly. She became a spooky ghost!
+[01:24:37]: [Resurrect Announcement] MissGiovanna was resurrected by Fire Pit.
+[01:24:39]: [Vote Announcement] rollback passed
+[01:24:40]: [Death Announcement] jelsaoverlandfrost was killed by Lavae. She became a spooky ghost!
+[01:26:02]: [Vote Announcement] rollback passed
+[01:26:59]: [Vote Announcement] rollback passed
+[01:34:04]: [Leave Announcement] MissGiovanna
+[01:36:48]: [Join Announcement] MissGiovanna
+[01:45:36]: [Skin Announcement] 嘤嘤嘤酱 feet_fleece_bootp_brown_sepia
+[01:53:59]: [Leave Announcement] 嘤嘤嘤酱
+[01:54:04]: [Leave Announcement] jelsaoverlandfrost
+[01:55:01]: [Leave Announcement] MissGiovanna
