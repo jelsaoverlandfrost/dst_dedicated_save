@@ -1,7 +1,0 @@
-[00:08:43]: [Join Announcement] jelsaoverlandfrost
-[00:10:24]: [Join Announcement] MissGiovanna
-[00:12:43]: [Leave Announcement] MissGiovanna
-[00:32:27]: [Join Announcement] MissGiovanna
-[00:41:31]: [Leave Announcement] MissGiovanna
-[00:50:37]: [Skin Announcement] jelsaoverlandfrost body_polo_blue_denim
-[01:33:36]: [Leave Announcement] jelsaoverlandfrost

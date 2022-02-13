@@ -1,8 +1,0 @@
-[00:03:47]: [Join Announcement] jelsaoverlandfrost
-[00:14:33]: [Leave Announcement] jelsaoverlandfrost
-[00:21:41]: [Join Announcement] jelsaoverlandfrost
-[00:46:08]: [Skin Announcement] jelsaoverlandfrost legs_pinstripe_pants_navy_crow
-[01:52:31]: [Skin Announcement] jelsaoverlandfrost body_flannel_purple_grape
-[02:01:58]: [Leave Announcement] jelsaoverlandfrost
-[07:23:50]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
-[07:24:15]: [Join Announcement] jelsaoverlandfrost

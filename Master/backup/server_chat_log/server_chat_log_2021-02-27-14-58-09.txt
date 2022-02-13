@@ -1,6 +1,0 @@
-[00:06:37]: [Join Announcement] jelsaoverlandfrost
-[00:17:20]: [Leave Announcement] jelsaoverlandfrost
-[13:13:45]: [Join Announcement] jelsaoverlandfrost
-[13:14:11]: [Mod Warning] Insight is out of date and needs to be updated for new users to be able to join the server.
-[13:16:10]: [Mod Warning] Insight is out of date and needs to be updated for new users to be able to join the server.
-[13:16:15]: [Leave Announcement] jelsaoverlandfrost
