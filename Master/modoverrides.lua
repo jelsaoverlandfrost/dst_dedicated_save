@@ -228,7 +228,7 @@ return {
     enabled=true 
   },
   ["workshop-2568821043"]={
-    configuration_options={ ENABLEBACKPACK=false, EXTRASLOT=0, INVENTORYSIZE=45 },
+    configuration_options={ ENABLEBACKPACK=true, EXTRASLOT=0, INVENTORYSIZE=45 },
     enabled=true 
   },
   ["workshop-375850593"]={ configuration_options={  }, enabled=true },

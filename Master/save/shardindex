@@ -229,7 +229,7 @@ KLEI     1 return {
       enabled=true 
     },
     ["workshop-2568821043"]={
-      configuration_options={ ENABLEBACKPACK=false, EXTRASLOT=0, INVENTORYSIZE=45 },
+      configuration_options={ ENABLEBACKPACK=true, EXTRASLOT=0, INVENTORYSIZE=45 },
       enabled=true 
     },
     ["workshop-375850593"]={ configuration_options={  }, enabled=true },
@@ -314,8 +314,7 @@ KLEI     1 return {
     password="tablet",
     privacy_type=0,
     pvp=false,
-    server_language="en",
-    use_legacy_session_path=false 
+    server_language="en" 
   },
   session_id="3512368A87E67C7A",
   version=4,
@@ -344,7 +343,6 @@ KLEI     1 return {
         bees_setting="default",
         berrybush="often",
         birds="default",
-        blockoverrides={ ["workshop-1378549454"]={ specialevent=true, worldseed=true } },
         boons="default",
         branching="default",
         brightmarecreatures="default",
@@ -463,7 +461,6 @@ KLEI     1 return {
         trees="default",
         tumbleweed="often",
         twiggytrees_regrowth="default",
-        updateanyways={ ["workshop-1378549454"]={ specialevent=true, worldseed=true } },
         walrus="default",
         walrus_setting="default",
         wasps="default",
