@@ -1,0 +1,48 @@
+[00:01:16]: [Join Announcement] jelsaoverlandfrost
+[00:43:41]: [Skin Announcement] jelsaoverlandfrost legs_skirt_pleated_tan_khaki
+[00:44:04]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[00:46:04]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[00:48:10]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[00:50:21]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[00:52:20]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[00:54:20]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[00:59:20]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:01:42]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:03:42]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:05:39]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:07:40]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:09:43]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:11:43]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:13:42]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:15:43]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:17:43]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:19:45]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:21:43]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:23:45]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:25:44]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:27:45]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:29:49]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:31:48]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:33:49]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:35:49]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:37:49]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:39:50]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:41:50]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:43:51]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:48:59]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:50:05]: [Skin Announcement] jelsaoverlandfrost webber_beard_boy
+[01:51:08]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:53:08]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:55:08]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:57:08]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[01:59:09]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[02:01:09]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[02:03:09]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[02:05:09]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[02:07:10]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[02:09:11]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[02:11:11]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[02:13:11]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[02:15:12]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[02:17:16]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
+[02:18:01]: [Leave Announcement] jelsaoverlandfrost

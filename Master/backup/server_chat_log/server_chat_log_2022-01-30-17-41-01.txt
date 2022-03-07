@@ -1,5 +1,0 @@
-[00:02:28]: [Join Announcement] jelsaoverlandfrost
-[00:02:44]: [Resurrect Announcement] jelsaoverlandfrost was resurrected by Endothermic Fire Pit.
-[00:02:55]: [Vote Announcement] rollback passed
-[00:03:59]: [Vote Announcement] rollback passed
-[00:04:47]: [Vote Announcement] rollback passed

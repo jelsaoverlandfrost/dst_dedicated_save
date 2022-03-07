@@ -87,12 +87,15 @@ return {
       ["MemSpikeFixworkshop-1688661034"]="default",
       ["MemSpikeFixworkshop-1998081438"]="default",
       ["MemSpikeFixworkshop-2035749201"]="default",
+      ["MemSpikeFixworkshop-2036297076"]="default",
       ["MemSpikeFixworkshop-2189004162"]="default",
       ["MemSpikeFixworkshop-2302837868"]="default",
       ["MemSpikeFixworkshop-2316507379"]="default",
       ["MemSpikeFixworkshop-2325441848"]="default",
       ["MemSpikeFixworkshop-2479513334"]="default",
       ["MemSpikeFixworkshop-2568821043"]="default",
+      ["MemSpikeFixworkshop-2646493139"]="default",
+      ["MemSpikeFixworkshop-2746815492"]="default",
       ["MemSpikeFixworkshop-345692228"]="default",
       ["MemSpikeFixworkshop-351325790"]="default",
       ["MemSpikeFixworkshop-365119238"]="default",
@@ -133,6 +136,11 @@ return {
       Icebox=false,
       SaltBox=false 
     },
+    enabled=true 
+  },
+  ["workshop-1998081438"]={ configuration_options={ StackMode=true, StackRadius=10 }, enabled=true },
+  ["workshop-2036297076"]={
+    configuration_options={ Difficulty=true, Val=false, evliGarden=true },
     enabled=true 
   },
   ["workshop-2189004162"]={
@@ -231,6 +239,7 @@ return {
     configuration_options={ ENABLEBACKPACK=false, EXTRASLOT=0, INVENTORYSIZE=45 },
     enabled=true 
   },
+  ["workshop-2646493139"]={ configuration_options={ hotkey=108 }, enabled=true },
   ["workshop-375850593"]={ configuration_options={  }, enabled=true },
   ["workshop-375859599"]={
     configuration_options={

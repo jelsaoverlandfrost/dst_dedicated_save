@@ -1,0 +1,3 @@
+[00:01:10]: [Join Announcement] jelsaoverlandfrost
+[00:02:49]: [Resurrect Announcement] jelsaoverlandfrost was resurrected by Fire Pit.
+[00:06:40]: [Leave Announcement] jelsaoverlandfrost
