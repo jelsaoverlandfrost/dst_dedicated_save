@@ -1,6 +1,0 @@
-[00:03:00]: [Join Announcement] jelsaoverlandfrost
-[00:03:27]: [Join Announcement] MissGiovanna
-[00:16:12]: [Announcement] You feel an evil presence watching you...
-[00:16:22]: [Announcement] The Eye of Terror turns its gaze toward MissGiovanna
-[00:16:45]: [Vote Announcement] rollback passed
-[00:18:43]: [Leave Announcement] MissGiovanna
