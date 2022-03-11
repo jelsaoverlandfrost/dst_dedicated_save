@@ -138,7 +138,6 @@ return {
     },
     enabled=true 
   },
-  ["workshop-1998081438"]={ configuration_options={ StackMode=true, StackRadius=10 }, enabled=true },
   ["workshop-2036297076"]={
     configuration_options={ Difficulty=true, Val=false, evliGarden=true },
     enabled=true 
@@ -294,7 +293,7 @@ return {
   },
   ["workshop-767776640"]={
     configuration_options={
-      bonus=0,
+      bonus=0.1,
       maxweapon=1,
       null=1,
       overmaxarmor=false,

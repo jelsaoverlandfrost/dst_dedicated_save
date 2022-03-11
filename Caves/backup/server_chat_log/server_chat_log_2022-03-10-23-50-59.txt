@@ -1,0 +1,10 @@
+[00:02:23]: [Join Announcement] jelsaoverlandfrost
+[01:11:22]: [Death Announcement] jelsaoverlandfrost was killed by the passage of time. She became a spooky ghost!
+[01:11:27]: [Resurrect Announcement] jelsaoverlandfrost was resurrected by Fire Pit.
+[01:18:46]: [Skin Announcement] jelsaoverlandfrost legs_wurt_victorian
+[02:15:54]: [Vote Announcement] rollback passed
+[02:17:19]: [Vote Announcement] rollback passed
+[02:25:48]: [Death Announcement] jelsaoverlandfrost was killed by the passage of time. She became a spooky ghost!
+[02:25:55]: [Resurrect Announcement] jelsaoverlandfrost was resurrected by Fire Pit.
+[02:35:01]: [Skin Announcement] jelsaoverlandfrost legs_skirt_basic_pink_pigman
+[02:51:42]: [Leave Announcement] jelsaoverlandfrost
