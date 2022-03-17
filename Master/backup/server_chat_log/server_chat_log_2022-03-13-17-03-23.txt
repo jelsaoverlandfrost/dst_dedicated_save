@@ -1,0 +1,16 @@
+[00:01:32]: [Join Announcement] jelsaoverlandfrost
+[00:03:02]: [Join Announcement] MissGiovanna
+[01:17:24]: [Skin Announcement] jelsaoverlandfrost hand_beltedgloves_brown_beaver
+[01:17:34]: [Skin Announcement] MissGiovanna webber_beard_shadow
+[02:36:17]: [Skin Announcement] MissGiovanna body_sweatervest_blue_snowbird
+[02:56:24]: [Skin Announcement] jelsaoverlandfrost fence_gate_pickettan
+[03:16:25]: [Leave Announcement] MissGiovanna
+[03:16:28]: [Leave Announcement] jelsaoverlandfrost
+[03:19:16]: [Join Announcement] jelsaoverlandfrost
+[03:20:05]: [Join Announcement] MissGiovanna
+[03:20:18]: [Vote Announcement] rollback passed
+[03:40:04]: [Leave Announcement] MissGiovanna
+[03:41:37]: [Leave Announcement] jelsaoverlandfrost
+[22:39:49]: [Join Announcement] jelsaoverlandfrost
+[22:45:06]: [Leave Announcement] jelsaoverlandfrost
+[05:50:09]: [Join Announcement] jelsaoverlandfrost

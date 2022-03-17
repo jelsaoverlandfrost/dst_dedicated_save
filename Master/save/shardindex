@@ -320,10 +320,9 @@ KLEI     1 return {
     name="FrozenWorld",
     online_mode=true,
     password="tablet",
-    privacy_type=2,
+    privacy_type=0,
     pvp=false,
-    server_language="en",
-    use_legacy_session_path=false 
+    server_language="en" 
   },
   session_id="3512368A87E67C7A",
   version=4,
