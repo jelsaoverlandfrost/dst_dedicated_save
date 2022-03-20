@@ -1,9 +1,0 @@
-[00:02:48]: [Join Announcement] jelsaoverlandfrost
-[00:03:55]: [Join Announcement] MissGiovanna
-[00:19:27]: [Skin Announcement] jelsaoverlandfrost hand_wormwood_shadow
-[00:28:20]: [Skin Announcement] MissGiovanna legs_wortox_survivor
-[00:42:15]: [Leave Announcement] MissGiovanna
-[01:22:49]: [Skin Announcement] jelsaoverlandfrost legs_warly_rose
-[02:51:58]: [Skin Announcement] jelsaoverlandfrost winona_frankenstein
-[04:06:23]: [Skin Announcement] jelsaoverlandfrost legs_skirt_basic_green_leaf
-[04:11:03]: [Leave Announcement] jelsaoverlandfrost
