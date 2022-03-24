@@ -1,9 +1,0 @@
-[00:15:26]: [Join Announcement] jelsaoverlandfrost
-[01:13:25]: [Death Announcement] jelsaoverlandfrost was killed by Bee Queen. She became a spooky ghost!
-[01:13:27]: [Resurrect Announcement] jelsaoverlandfrost was resurrected by Fire Pit.
-[01:31:23]: [Leave Announcement] jelsaoverlandfrost
-[01:52:56]: [Join Announcement] jelsaoverlandfrost
-[02:13:03]: [Join Announcement] MissGiovanna
-[02:48:09]: [Say] (KU_uGVY9o6K) jelsaoverlandfrost: Later help deerclops
-[02:54:52]: [Leave Announcement] jelsaoverlandfrost
-[02:54:56]: [Leave Announcement] MissGiovanna

@@ -1,0 +1,4 @@
+[00:01:10]: [Join Announcement] jelsaoverlandfrost
+[00:06:19]: [Vote Announcement] rollback passed
+[00:12:20]: [Vote Announcement] rollback passed
+[00:28:26]: [Leave Announcement] jelsaoverlandfrost

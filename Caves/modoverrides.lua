@@ -81,24 +81,33 @@ return {
       ["MemSpikeFixworkshop-1309401477"]="default",
       ["MemSpikeFixworkshop-1365141672"]="default",
       ["MemSpikeFixworkshop-1530801499"]="default",
+      ["MemSpikeFixworkshop-1540284567"]="default",
       ["MemSpikeFixworkshop-1546204443"]="default",
       ["MemSpikeFixworkshop-1557935632"]="default",
       ["MemSpikeFixworkshop-1595631294"]="default",
       ["MemSpikeFixworkshop-1688661034"]="default",
+      ["MemSpikeFixworkshop-1781410139"]="default",
+      ["MemSpikeFixworkshop-1986758170"]="default",
       ["MemSpikeFixworkshop-1998081438"]="default",
       ["MemSpikeFixworkshop-2035749201"]="default",
       ["MemSpikeFixworkshop-2036297076"]="default",
+      ["MemSpikeFixworkshop-2102043297"]="default",
       ["MemSpikeFixworkshop-2189004162"]="default",
+      ["MemSpikeFixworkshop-2260439333"]="default",
       ["MemSpikeFixworkshop-2302837868"]="default",
       ["MemSpikeFixworkshop-2316507379"]="default",
       ["MemSpikeFixworkshop-2325441848"]="default",
       ["MemSpikeFixworkshop-2479513334"]="default",
+      ["MemSpikeFixworkshop-2504558625"]="default",
+      ["MemSpikeFixworkshop-2528541304"]="default",
       ["MemSpikeFixworkshop-2568821043"]="default",
       ["MemSpikeFixworkshop-2646493139"]="default",
       ["MemSpikeFixworkshop-2746815492"]="default",
+      ["MemSpikeFixworkshop-2778325244"]="default",
       ["MemSpikeFixworkshop-345692228"]="default",
       ["MemSpikeFixworkshop-351325790"]="default",
       ["MemSpikeFixworkshop-365119238"]="default",
+      ["MemSpikeFixworkshop-368686576"]="default",
       ["MemSpikeFixworkshop-375850593"]="default",
       ["MemSpikeFixworkshop-375859599"]="default",
       ["MemSpikeFixworkshop-376333686"]="default",
@@ -117,6 +126,7 @@ return {
       ["MemSpikeFixworkshop-758532836"]="default",
       ["MemSpikeFixworkshop-767776640"]="default",
       ["MemSpikeFixworkshop-786556008"]="default",
+      ["MemSpikeFixworkshop-836583293"]="default",
       ["MemSpikeFixworkshop-875994715"]="default",
       craftinghighlight=false 
     },
@@ -126,7 +136,6 @@ return {
     configuration_options={ Hunger_Cost=0.25, Ownership=false, Sanity_Cost=0.25 },
     enabled=true 
   },
-  ["workshop-1546204443"]={ configuration_options={ colourcube=true, language="en" }, enabled=true },
   ["workshop-1595631294"]={
     configuration_options={
       BundleItems=false,
@@ -138,6 +147,7 @@ return {
     },
     enabled=true 
   },
+  ["workshop-1998081438"]={ configuration_options={ StackMode=true, StackRadius=10 }, enabled=true },
   ["workshop-2036297076"]={
     configuration_options={ Difficulty=true, Val=false, evliGarden=true },
     enabled=true 
@@ -234,11 +244,37 @@ return {
     },
     enabled=true 
   },
+  ["workshop-2528541304"]={
+    configuration_options={ amount_given=10, amount_given2=1, planting_floor=false },
+    enabled=true 
+  },
   ["workshop-2568821043"]={
     configuration_options={ ENABLEBACKPACK=false, EXTRASLOT=0, INVENTORYSIZE=45 },
     enabled=true 
   },
   ["workshop-2646493139"]={ configuration_options={ hotkey=108 }, enabled=true },
+  ["workshop-2778325244"]={
+    configuration_options={
+      Title="",
+      cost_pitchfork=true,
+      cost_turf=true,
+      digging_tool="pitchfork",
+      force_mode=false,
+      mod_language=1,
+      need_serveradmin=false,
+      no_pitchfork1="",
+      no_pitchfork2="",
+      no_pitchfork3="",
+      no_pitchfork4="",
+      no_pitchfork5="",
+      paving_tool="orangestaff",
+      refresh_range=0,
+      refresh_rate=0.1,
+      strict_mode=true,
+      toggle_mode="KEY_F7" 
+    },
+    enabled=true 
+  },
   ["workshop-375850593"]={ configuration_options={  }, enabled=true },
   ["workshop-375859599"]={
     configuration_options={

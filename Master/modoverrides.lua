@@ -99,9 +99,11 @@ return {
       ["MemSpikeFixworkshop-2325441848"]="default",
       ["MemSpikeFixworkshop-2479513334"]="default",
       ["MemSpikeFixworkshop-2504558625"]="default",
+      ["MemSpikeFixworkshop-2528541304"]="default",
       ["MemSpikeFixworkshop-2568821043"]="default",
       ["MemSpikeFixworkshop-2646493139"]="default",
       ["MemSpikeFixworkshop-2746815492"]="default",
+      ["MemSpikeFixworkshop-2778325244"]="default",
       ["MemSpikeFixworkshop-345692228"]="default",
       ["MemSpikeFixworkshop-351325790"]="default",
       ["MemSpikeFixworkshop-365119238"]="default",
@@ -134,7 +136,6 @@ return {
     configuration_options={ Hunger_Cost=0.25, Ownership=false, Sanity_Cost=0.25 },
     enabled=true 
   },
-  ["workshop-1546204443"]={ configuration_options={ colourcube=true, language="en" }, enabled=true },
   ["workshop-1595631294"]={
     configuration_options={
       BundleItems=false,
@@ -243,11 +244,37 @@ return {
     },
     enabled=true 
   },
+  ["workshop-2528541304"]={
+    configuration_options={ amount_given=10, amount_given2=1, planting_floor=false },
+    enabled=true 
+  },
   ["workshop-2568821043"]={
     configuration_options={ ENABLEBACKPACK=false, EXTRASLOT=0, INVENTORYSIZE=45 },
     enabled=true 
   },
   ["workshop-2646493139"]={ configuration_options={ hotkey=108 }, enabled=true },
+  ["workshop-2778325244"]={
+    configuration_options={
+      Title="",
+      cost_pitchfork=true,
+      cost_turf=true,
+      digging_tool="pitchfork",
+      force_mode=false,
+      mod_language=1,
+      need_serveradmin=false,
+      no_pitchfork1="",
+      no_pitchfork2="",
+      no_pitchfork3="",
+      no_pitchfork4="",
+      no_pitchfork5="",
+      paving_tool="orangestaff",
+      refresh_range=0,
+      refresh_rate=0.1,
+      strict_mode=true,
+      toggle_mode="KEY_F7" 
+    },
+    enabled=true 
+  },
   ["workshop-375850593"]={ configuration_options={  }, enabled=true },
   ["workshop-375859599"]={
     configuration_options={

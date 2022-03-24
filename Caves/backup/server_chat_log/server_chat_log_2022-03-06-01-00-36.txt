@@ -1,6 +1,0 @@
-[00:01:33]: [Join Announcement] jelsaoverlandfrost
-[01:25:03]: [Skin Announcement] jelsaoverlandfrost legs_pants_basic_blue_sky
-[02:54:35]: [Skin Announcement] jelsaoverlandfrost hand_drivergloves_tan_grass
-[03:50:49]: [Skin Announcement] jelsaoverlandfrost body_buttons_teal_jade
-[04:59:51]: [Skin Announcement] jelsaoverlandfrost feet_wx78_nature
-[11:43:53]: [Leave Announcement] jelsaoverlandfrost
