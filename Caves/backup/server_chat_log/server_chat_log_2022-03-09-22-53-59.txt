@@ -1,6 +1,0 @@
-[00:02:16]: [Join Announcement] jelsaoverlandfrost
-[00:06:28]: [Death Announcement] jelsaoverlandfrost was killed by the passage of time. She became a spooky ghost!
-[00:06:31]: [Resurrect Announcement] jelsaoverlandfrost was resurrected by Life Giving Amulet.
-[00:53:01]: [Skin Announcement] jelsaoverlandfrost hand_willow_ice
-[01:59:05]: [Skin Announcement] jelsaoverlandfrost legs_walter_detective
-[02:04:09]: [Leave Announcement] jelsaoverlandfrost

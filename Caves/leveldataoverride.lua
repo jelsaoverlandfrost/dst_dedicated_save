@@ -99,11 +99,11 @@ return {
     wormlights="default",
     worms="default",
     year_of_the_beefalo="enabled",
-    year_of_the_carrat="enabled",
+    year_of_the_carrat="default",
     year_of_the_catcoon="enabled",
-    year_of_the_gobbler="enabled",
-    year_of_the_pig="enabled",
-    year_of_the_varg="enabled" 
+    year_of_the_gobbler="default",
+    year_of_the_pig="default",
+    year_of_the_varg="default" 
   },
   required_prefabs={ "multiplayer_portal" },
   settings_desc="Delve into the caves... together!",

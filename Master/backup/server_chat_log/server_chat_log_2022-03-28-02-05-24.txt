@@ -1,0 +1,4 @@
+[00:01:18]: [Join Announcement] jelsaoverlandfrost
+[00:23:17]: [Say] (KU_uGVY9o6K) jelsaoverlandfrost: y
+[00:23:21]: [Whisper] (KU_uGVY9o6K) jelsaoverlandfrost: u
+[00:27:16]: [Leave Announcement] jelsaoverlandfrost

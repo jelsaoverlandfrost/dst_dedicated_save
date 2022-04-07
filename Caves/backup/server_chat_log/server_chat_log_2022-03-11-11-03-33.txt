@@ -1,6 +1,0 @@
-[00:01:46]: [Join Announcement] jelsaoverlandfrost
-[00:44:22]: [Skin Announcement] jelsaoverlandfrost body_suspenders_white_pure
-[01:14:34]: [Death Announcement] jelsaoverlandfrost was killed by the passage of time. She became a spooky ghost!
-[01:14:44]: [Resurrect Announcement] jelsaoverlandfrost was resurrected by TMIP Console.
-[01:48:48]: [Skin Announcement] jelsaoverlandfrost feet_wanda_formal
-[03:11:16]: [Leave Announcement] jelsaoverlandfrost
