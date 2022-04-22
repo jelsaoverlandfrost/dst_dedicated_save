@@ -1,0 +1,19 @@
+[00:02:55]: [Join Announcement] jelsaoverlandfrost
+[00:03:13]: [Leave Announcement] jelsaoverlandfrost
+[00:04:25]: [Join Announcement] jelsaoverlandfrost
+[00:04:42]: [Vote Announcement] rollback passed
+[01:11:20]: [Skin Announcement] jelsaoverlandfrost body_wortox_original
+[02:03:17]: [Announcement] You feel an evil presence watching you...
+[02:03:27]: [Announcement] The Eye of Terror turns its gaze toward jelsaoverlandfrost
+[02:17:41]: [Skin Announcement] jelsaoverlandfrost feet_woodie_gladiator
+[03:04:56]: [Announcement] You feel an evil presence watching you...
+[03:05:06]: [Announcement] The Eye of Terror turns its gaze toward jelsaoverlandfrost
+[03:22:54]: [Skin Announcement] jelsaoverlandfrost body_cardigan_teal_jade
+[03:30:22]: [Leave Announcement] jelsaoverlandfrost
+[04:40:31]: [Join Announcement] jelsaoverlandfrost
+[05:26:25]: [Leave Announcement] jelsaoverlandfrost
+[05:41:51]: [Join Announcement] jelsaoverlandfrost
+[05:50:06]: [Death Announcement] jelsaoverlandfrost was killed by the passage of time. She became a spooky ghost!
+[05:50:09]: [Resurrect Announcement] jelsaoverlandfrost was resurrected by Fire Pit.
+[06:01:38]: [Skin Announcement] jelsaoverlandfrost feet_waxwell_nature
+[06:01:47]: [Leave Announcement] jelsaoverlandfrost

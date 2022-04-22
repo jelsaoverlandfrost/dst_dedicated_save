@@ -1,0 +1,32 @@
+[00:01:44]: [Join Announcement] jelsaoverlandfrost
+[00:03:38]: [Join Announcement] MissGiovanna
+[00:21:54]: [Skin Announcement] jelsaoverlandfrost legs_wortox_minotaur
+[00:25:50]: [Death Announcement] MissGiovanna was killed by Starvation. He became a spooky ghost!
+[00:26:13]: [Resurrect Announcement] MissGiovanna was resurrected by Campfire.
+[01:05:25]: [Skin Announcement] MissGiovanna hand_woodie_nature
+[01:12:58]: [Death Announcement] MissGiovanna was killed by Bunnyman. He became a spooky ghost!
+[01:13:12]: [Resurrect Announcement] MissGiovanna was resurrected by Fire Pit.
+[01:49:23]: [Skin Announcement] jelsaoverlandfrost legs_wathgrithr_magma
+[02:10:48]: [Announcement] This is going to be a terrible night...
+[02:10:57]: [Announcement] The Twins turn their gaze toward MissGiovanna
+[02:13:00]: [Death Announcement] jelsaoverlandfrost was killed by the passage of time. She became a spooky ghost!
+[02:13:26]: [Resurrect Announcement] jelsaoverlandfrost was resurrected by Fire Pit.
+[02:19:21]: [Announcement] This is going to be a terrible night...
+[02:19:31]: [Announcement] The Twins turn their gaze toward MissGiovanna
+[02:19:46]: [Death Announcement] jelsaoverlandfrost was killed by the passage of time. She became a spooky ghost!
+[02:19:51]: [Resurrect Announcement] jelsaoverlandfrost was resurrected by Life Giving Amulet.
+[02:21:40]: [Death Announcement] MissGiovanna was killed by Retinazor. He became a spooky ghost!
+[02:22:08]: [Resurrect Announcement] MissGiovanna was resurrected by Endothermic Fire Pit.
+[02:27:32]: [Announcement] This is going to be a terrible night...
+[02:27:42]: [Announcement] The Twins turn their gaze toward jelsaoverlandfrost
+[02:39:51]: [Skin Announcement] jelsaoverlandfrost legs_wortox_minotaur
+[02:40:01]: [Vote Announcement] rollback passed
+[02:46:52]: [Death Announcement] MissGiovanna was killed by Freezing. He became a spooky ghost!
+[02:48:15]: [Resurrect Announcement] MissGiovanna was resurrected by Fire Pit.
+[03:32:53]: [Death Announcement] jelsaoverlandfrost was killed by the passage of time. She became a spooky ghost!
+[03:32:59]: [Resurrect Announcement] jelsaoverlandfrost was resurrected by Fire Pit.
+[03:40:25]: [Death Announcement] jelsaoverlandfrost was killed by the passage of time. She became a spooky ghost!
+[03:40:32]: [Resurrect Announcement] jelsaoverlandfrost was resurrected by Fire Pit.
+[03:47:29]: [Skin Announcement] jelsaoverlandfrost hand_wanda_steampunk
+[04:11:58]: [Leave Announcement] MissGiovanna
+[04:12:26]: [Leave Announcement] jelsaoverlandfrost

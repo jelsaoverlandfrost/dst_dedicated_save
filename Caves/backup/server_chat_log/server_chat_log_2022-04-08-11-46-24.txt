@@ -1,0 +1,4 @@
+[01:05:37]: [Join Announcement] jelsaoverlandfrost
+[01:06:59]: [Join Announcement] MissGiovanna
+[01:17:09]: [Leave Announcement] MissGiovanna
+[01:17:12]: [Leave Announcement] jelsaoverlandfrost

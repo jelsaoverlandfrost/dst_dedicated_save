@@ -46,7 +46,7 @@ KLEI     1 return {
         heatrock_u=false,
         krampussack=1,
         no_grassgekko=true,
-        pick=true,
+        pick=false,
         piggybackspeed=1,
         refrigerator=-5,
         siestacanopy=15,
@@ -261,7 +261,7 @@ KLEI     1 return {
       enabled=true 
     },
     ["workshop-2568821043"]={
-      configuration_options={ ENABLEBACKPACK=false, EXTRASLOT=0, INVENTORYSIZE=45 },
+      configuration_options={ ENABLEBACKPACK=true, EXTRASLOT=0, INVENTORYSIZE=45 },
       enabled=true 
     },
     ["workshop-2753142497"]={
@@ -360,11 +360,29 @@ KLEI     1 return {
       enabled=true 
     },
     ["workshop-2779338942"]={
-      configuration_options={ bright=false, color="RGB", language="EN", radius=false, recipe="fireflies" },
+      configuration_options={
+        bright=false,
+        color="white",
+        language="EN",
+        radius="rad3",
+        recipe="fireflies",
+        setanim=true 
+      },
       enabled=true 
     },
     ["workshop-2779841191"]={ configuration_options={ StackMode=true, StackRadius=10 }, enabled=true },
     ["workshop-2786172214"]={ configuration_options={  }, enabled=true },
+    ["workshop-2788217698"]={
+      configuration_options={
+        bright=false,
+        color="white",
+        language="EN",
+        radius="rad4",
+        recipe="fireflies",
+        style=false 
+      },
+      enabled=true 
+    },
     ["workshop-375859599"]={
       configuration_options={
         divider=5,
@@ -444,10 +462,9 @@ KLEI     1 return {
     name="FrostyWorld",
     online_mode=true,
     password="tablet",
-    privacy_type=2,
+    privacy_type=0,
     pvp=false,
-    server_language="en",
-    use_legacy_session_path=false 
+    server_language="en" 
   },
   session_id="3512368A87E67C7A",
   version=4,

@@ -1,0 +1,11 @@
+[00:05:34]: [Join Announcement] jelsaoverlandfrost
+[00:07:21]: [Leave Announcement] jelsaoverlandfrost
+[00:08:37]: [Join Announcement] jelsaoverlandfrost
+[00:21:01]: [Leave Announcement] jelsaoverlandfrost
+[03:02:26]: [Join Announcement] jelsaoverlandfrost
+[03:03:17]: [Leave Announcement] jelsaoverlandfrost
+[03:05:53]: [Join Announcement] jelsaoverlandfrost
+[03:39:07]: [Death Announcement] jelsaoverlandfrost was killed by the passage of time. She became a spooky ghost!
+[03:41:13]: [Vote Announcement] rollback passed
+[03:41:30]: [Vote Announcement] rollback passed
+[03:41:38]: [Leave Announcement] jelsaoverlandfrost
