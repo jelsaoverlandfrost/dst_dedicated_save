@@ -114,6 +114,7 @@ return {
       ["MemSpikeFixworkshop-2779338942"]="default",
       ["MemSpikeFixworkshop-2779841191"]="default",
       ["MemSpikeFixworkshop-2786172214"]="default",
+      ["MemSpikeFixworkshop-2788217698"]="default",
       ["MemSpikeFixworkshop-345692228"]="default",
       ["MemSpikeFixworkshop-351325790"]="default",
       ["MemSpikeFixworkshop-365119238"]="default",
@@ -260,7 +261,7 @@ return {
     enabled=true 
   },
   ["workshop-2568821043"]={
-    configuration_options={ ENABLEBACKPACK=true, EXTRASLOT=0, INVENTORYSIZE=45 },
+    configuration_options={ ENABLEBACKPACK=false, EXTRASLOT=0, INVENTORYSIZE=45 },
     enabled=true 
   },
   ["workshop-2753142497"]={
@@ -363,25 +364,25 @@ return {
       bright=false,
       color="white",
       language="EN",
-      radius="rad3",
-      recipe="lightbulb",
-      setanim=true 
-    },
-    enabled=true 
-  },
-  ["workshop-2788217698"]={
-    configuration_options={
-      bright=false,
-      color="white",
-      language="EN",
-      radius="rad3",
+      radius="rad2",
       recipe="fireflies",
-      style=false 
+      setanim=true 
     },
     enabled=true 
   },
   ["workshop-2779841191"]={ configuration_options={ StackMode=true, StackRadius=10 }, enabled=true },
   ["workshop-2786172214"]={ configuration_options={  }, enabled=true },
+  ["workshop-2788217698"]={
+    configuration_options={
+      bright=false,
+      color="white",
+      language="EN",
+      radius="rad2",
+      recipe="fireflies",
+      style=false 
+    },
+    enabled=true 
+  },
   ["workshop-375859599"]={
     configuration_options={
       divider=5,

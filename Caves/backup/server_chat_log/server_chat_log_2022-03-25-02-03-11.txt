@@ -1,7 +1,0 @@
-[00:01:11]: [Join Announcement] jelsaoverlandfrost
-[00:01:17]: [Death Announcement] jelsaoverlandfrost was killed by Shenanigans. She became a spooky ghost!
-[00:01:22]: [Resurrect Announcement] jelsaoverlandfrost was resurrected by Fire Pit.
-[00:01:54]: [Vote Announcement] rollback passed
-[00:03:03]: [Death Announcement] jelsaoverlandfrost was killed by Shenanigans. She became a spooky ghost!
-[00:03:03]: [Vote Announcement] rollback passed
-[00:03:07]: [Resurrect Announcement] jelsaoverlandfrost was resurrected by Life Giving Amulet.

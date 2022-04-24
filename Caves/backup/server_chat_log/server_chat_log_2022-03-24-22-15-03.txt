@@ -1,6 +1,0 @@
-[00:01:11]: [Join Announcement] jelsaoverlandfrost
-[00:02:23]: [Join Announcement] MissGiovanna
-[00:05:56]: [Death Announcement] MissGiovanna was killed by Terrorbeak. He became a spooky ghost!
-[00:06:29]: [Resurrect Announcement] MissGiovanna was resurrected by Fire Pit.
-[00:33:04]: [Leave Announcement] MissGiovanna
-[01:13:13]: [Leave Announcement] jelsaoverlandfrost
