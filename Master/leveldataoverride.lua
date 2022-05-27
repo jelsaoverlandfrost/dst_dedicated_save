@@ -38,7 +38,7 @@ return {
     crabking="default",
     crow_carnival="enabled",
     day="default",
-    deciduousmonster="default",
+    deciduousmonster="never",
     deciduoustree_regrowth="default",
     deerclops="default",
     dragonfly="default",

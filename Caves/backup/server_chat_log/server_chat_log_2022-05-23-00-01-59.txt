@@ -1,0 +1,9 @@
+[00:01:32]: [Join Announcement] jelsaoverlandfrost
+[00:56:32]: [Skin Announcement] jelsaoverlandfrost hand_drivergloves_grey_dark
+[09:29:00]: [Skin Announcement] jelsaoverlandfrost legs_wilson_yule
+[00:34:41]: [Skin Announcement] jelsaoverlandfrost feet_winona_gladiator
+[02:09:46]: [Skin Announcement] jelsaoverlandfrost hand_beltedgloves_brown_beaver
+[02:21:00]: [Announcement] You feel an evil presence watching you...
+[02:21:10]: [Announcement] The Eye of Terror turns its gaze toward jelsaoverlandfrost
+[11:15:41]: [Skin Announcement] jelsaoverlandfrost feet_ridingbootp_white_pure
+[22:02:52]: [Leave Announcement] jelsaoverlandfrost

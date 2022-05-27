@@ -1,4 +1,0 @@
-[00:03:21]: [Join Announcement] jelsaoverlandfrost
-[00:04:29]: [Mod Warning] [API] Gem Core is out of date and needs to be updated for new users to be able to join the server.
-[00:04:29]: [Mod Warning] Street Lamp is out of date and needs to be updated for new users to be able to join the server.
-[00:06:04]: [Leave Announcement] jelsaoverlandfrost

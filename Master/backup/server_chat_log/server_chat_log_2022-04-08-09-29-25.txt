@@ -1,6 +1,0 @@
-[02:28:32]: [Join Announcement] jelsaoverlandfrost
-[03:35:03]: [Skin Announcement] jelsaoverlandfrost body_buttons_pink_hibiscus
-[03:46:44]: [Announcement] You feel an evil presence watching you...
-[03:46:54]: [Announcement] The Eye of Terror turns its gaze toward jelsaoverlandfrost
-[04:24:46]: [Skin Announcement] jelsaoverlandfrost feet_buckle_shoe_pink_mulberry
-[04:34:24]: [Leave Announcement] jelsaoverlandfrost
