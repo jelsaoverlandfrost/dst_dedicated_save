@@ -121,6 +121,7 @@ return {
       ["MemSpikeFixworkshop-2779841191"]="default",
       ["MemSpikeFixworkshop-2786172214"]="default",
       ["MemSpikeFixworkshop-2788217698"]="default",
+      ["MemSpikeFixworkshop-2801880191"]="default",
       ["MemSpikeFixworkshop-345692228"]="default",
       ["MemSpikeFixworkshop-351325790"]="default",
       ["MemSpikeFixworkshop-365119238"]="default",
@@ -353,10 +354,6 @@ return {
     configuration_options={ amount_given=10, amount_given2=1, planting_floor=true },
     enabled=true 
   },
-  ["workshop-2568821043"]={
-    configuration_options={ ENABLEBACKPACK=false, EXTRASLOT=0, INVENTORYSIZE=45 },
-    enabled=true 
-  },
   ["workshop-2753142497"]={
     configuration_options={
       [""]=0,
@@ -486,6 +483,10 @@ return {
       recipe="fireflies",
       style=false 
     },
+    enabled=true 
+  },
+  ["workshop-2801880191"]={
+    configuration_options={ ENABLEBACKPACK=true, INVENTORYSIZE=45, MOREEQUIPSLOTS=false },
     enabled=true 
   },
   ["workshop-375859599"]={

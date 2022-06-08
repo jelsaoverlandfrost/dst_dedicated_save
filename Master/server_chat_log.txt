@@ -1,5 +1,2 @@
-[00:01:39]: [Join Announcement] jelsaoverlandfrost
-[02:12:42]: [Announcement] jelsaoverlandfrost   befriended Pigs at least 30 times   Completed Achievement [Pigtown Major]
-[03:18:08]: [Announcement] jelsaoverlandfrost   mined at least 200 times   Completed Achievement [Miner]
-[06:02:33]: [Announcement] jelsaoverlandfrost   chopped or dug at least 700 trees   Completed Achievement [Mr.Bearger]
-[08:45:30]: [Leave Announcement] jelsaoverlandfrost
+[00:01:46]: [Join Announcement] jelsaoverlandfrost
+[00:02:12]: [Leave Announcement] jelsaoverlandfrost
