@@ -1,0 +1,12 @@
+[00:02:15]: [Join Announcement] jelsaoverlandfrost
+[00:04:05]: [Announcement] jelsaoverlandfrost   ate 10 Monster Lasagna   Completed Achievement [Unaffected]
+[01:45:31]: [Announcement] jelsaoverlandfrost   remained immobile for at least 90 minutes   Completed Achievement [Statue]
+[02:39:12]: [Announcement] jelsaoverlandfrost   ate 100 food items   Completed Achievement [Connoisseur]
+[02:59:09]: [Announcement] jelsaoverlandfrost   did not harm anyone for 40 minutes   Completed Achievement [Pacifist]
+[03:14:22]: [Announcement] jelsaoverlandfrost   ate 10 bacon and eggs   Completed Achievement [Calories]
+[03:27:39]: [Announcement] jelsaoverlandfrost   had no hunger for 30 minutes   Completed Achievement [Glutton]
+[04:10:50]: [Announcement] jelsaoverlandfrost   slayed the Dragonfly   Completed Achievement [Fiery Flyswatter]
+[12:02:47]: [Announcement] jelsaoverlandfrost   dealt over 100000 damage   Completed Achievement [Savage]
+[12:16:12]: [Announcement] jelsaoverlandfrost   sold trinkets for sweet glistening gold nuggets   Completed Achievement [Trader]
+[12:27:45]: [Announcement] jelsaoverlandfrost   slayed the Ancient Guardian   Completed Achievement [Pharao]
+[12:33:18]: [Leave Announcement] jelsaoverlandfrost

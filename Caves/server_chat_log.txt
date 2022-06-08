@@ -1,7 +1,5 @@
-[00:01:58]: [Join Announcement] jelsaoverlandfrost
-[15:07:29]: [Skin Announcement] jelsaoverlandfrost body_sweatervest_grey_silver
-[16:55:01]: [Skin Announcement] jelsaoverlandfrost legs_walter_formal
-[18:04:41]: [Skin Announcement] jelsaoverlandfrost legs_warly_fisherman
-[22:08:42]: [Skin Announcement] jelsaoverlandfrost feet_wendy_gladiator
-[23:37:37]: [Skin Announcement] jelsaoverlandfrost legs_pants_basic_tan_cream
-[23:57:45]: [Leave Announcement] jelsaoverlandfrost
+[00:01:39]: [Join Announcement] jelsaoverlandfrost
+[02:12:42]: [Announcement] jelsaoverlandfrost   befriended Pigs at least 30 times   Completed Achievement [Pigtown Major]
+[03:18:08]: [Announcement] jelsaoverlandfrost   mined at least 200 times   Completed Achievement [Miner]
+[06:02:33]: [Announcement] jelsaoverlandfrost   chopped or dug at least 700 trees   Completed Achievement [Mr.Bearger]
+[08:45:30]: [Leave Announcement] jelsaoverlandfrost

@@ -1,0 +1,19 @@
+[00:01:51]: [Join Announcement] jelsaoverlandfrost
+[00:46:20]: [Announcement] jelsaoverlandfrost   planted at least 500 trees or seeds on the ground   Completed Achievement [Mother Nature]
+[00:51:11]: [Announcement] jelsaoverlandfrost   has 5 Blueprints   Completed Achievement [Architect]
+[02:20:00]: [Announcement] jelsaoverlandfrost   killed 5 spiderqueens   Completed Achievement [Queenslayer]
+[04:37:02]: [Announcement] jelsaoverlandfrost   killed 10 treeguards   Completed Achievement [Magical Forest]
+[05:14:25]: [Announcement] jelsaoverlandfrost   solo killed Ewecus   Completed Achievement [Pinned Down]
+[05:16:24]: [Announcement] You feel an evil presence watching you...
+[05:16:34]: [Announcement] The Eye of Terror turns its gaze toward jelsaoverlandfrost
+[08:12:14]: [Announcement] jelsaoverlandfrost   killed 15 werepigs   Completed Achievement [Lycanthropy]
+[15:16:49]: [Announcement] jelsaoverlandfrost   took over 3000 damage   Completed Achievement [Tank]
+[16:36:34]: [Death Announcement] jelsaoverlandfrost was killed by the passage of time. She became a spooky ghost!
+[16:36:41]: [Resurrect Announcement] jelsaoverlandfrost was resurrected by Life Giving Amulet.
+[16:36:44]: [Announcement] jelsaoverlandfrost   revived others at least 5 times   Completed Achievement [Messiah]
+[16:55:44]: [Announcement] jelsaoverlandfrost   caught at least 60 fishes   Completed Achievement [Fisherman]
+[17:11:50]: [Announcement] jelsaoverlandfrost   learned one of the Ancient's secret tradition   Completed Achievement [Ancient Knowledge]
+[22:18:45]: [Announcement] jelsaoverlandfrost   killed at least 10 Calm Mosslings   Completed Achievement [Chicken Dinner]
+[22:20:05]: [Announcement] You feel an evil presence watching you...
+[22:20:15]: [Announcement] The Eye of Terror turns its gaze toward jelsaoverlandfrost
+[22:21:58]: [Leave Announcement] jelsaoverlandfrost

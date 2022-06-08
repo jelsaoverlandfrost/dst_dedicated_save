@@ -29,7 +29,7 @@ return {
     day="default",
     dropeverythingondespawn="default",
     dustmoths="default",
-    earthquakes="default",
+    earthquakes="rare",
     extrastartingitems="default",
     fern="default",
     fissure="default",
