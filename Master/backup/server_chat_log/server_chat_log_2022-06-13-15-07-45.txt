@@ -1,0 +1,21 @@
+[00:03:58]: [Join Announcement] jelsaoverlandfrost
+[00:38:23]: [Announcement] jelsaoverlandfrost   mined at least 400 times   Completed Achievement [Prospector]
+[01:04:27]: [Skin Announcement] jelsaoverlandfrost legs_skirt_button_purple_mauve
+[01:12:05]: [Announcement] jelsaoverlandfrost   ate 10 fishsticks   Completed Achievement [Pescatarian]
+[02:40:13]: [Skin Announcement] jelsaoverlandfrost legs_pj_blue_agean
+[04:23:32]: [Skin Announcement] jelsaoverlandfrost feet_wes_clown
+[04:40:41]: [Announcement] You feel an evil presence watching you...
+[04:40:51]: [Announcement] The Eye of Terror turns its gaze toward jelsaoverlandfrost
+[05:17:27]: [Say] (KU_uGVY9o6K) jelsaoverlandfrost: yay
+[05:40:59]: [Skin Announcement] jelsaoverlandfrost legs_wormwood_victorian
+[05:44:21]: [Announcement] jelsaoverlandfrost   crafted at least 1000 times   Completed Achievement [Artisan]
+[14:53:40]: [Mod Warning] Auto digging(paving) turf is out of date and needs to be updated for new users to be able to join the server.
+[14:55:40]: [Mod Warning] Auto digging(paving) turf is out of date and needs to be updated for new users to be able to join the server.
+[14:57:55]: [Mod Warning] Auto digging(paving) turf is out of date and needs to be updated for new users to be able to join the server.
+[14:59:55]: [Mod Warning] Auto digging(paving) turf is out of date and needs to be updated for new users to be able to join the server.
+[15:01:55]: [Mod Warning] Auto digging(paving) turf is out of date and needs to be updated for new users to be able to join the server.
+[15:03:55]: [Mod Warning] Auto digging(paving) turf is out of date and needs to be updated for new users to be able to join the server.
+[15:05:56]: [Mod Warning] Auto digging(paving) turf is out of date and needs to be updated for new users to be able to join the server.
+[15:08:00]: [Mod Warning] Auto digging(paving) turf is out of date and needs to be updated for new users to be able to join the server.
+[15:10:00]: [Mod Warning] Auto digging(paving) turf is out of date and needs to be updated for new users to be able to join the server.
+[15:10:20]: [Leave Announcement] jelsaoverlandfrost

@@ -1,0 +1,21 @@
+[00:06:34]: [Join Announcement] jelsaoverlandfrost
+[00:12:35]: [Skin Announcement] jelsaoverlandfrost body_wickerbottom_ice
+[01:14:34]: [Skin Announcement] jelsaoverlandfrost feet_willow_ice
+[03:55:55]: [Skin Announcement] jelsaoverlandfrost hand_drivergloves_tan_grass
+[05:01:10]: [Skin Announcement] jelsaoverlandfrost feet_fleece_bootp_brown_sepia
+[06:13:58]: [Skin Announcement] jelsaoverlandfrost legs_woodie_magma
+[06:21:31]: [Announcement] jelsaoverlandfrost   ate 10 guacamole   Completed Achievement [Tex-Mex]
+[07:33:40]: [Skin Announcement] jelsaoverlandfrost treasurechest_carpetbag
+[08:57:04]: [Leave Announcement] jelsaoverlandfrost
+[10:34:30]: [Join Announcement] jelsaoverlandfrost
+[10:46:54]: [Announcement] jelsaoverlandfrost   gathered 20 evil flowers   Completed Achievement [Evil Flowers]
+[04:17:25]: [Leave Announcement] jelsaoverlandfrost
+[08:33:02]: [Join Announcement] jelsaoverlandfrost
+[10:39:04]: [Leave Announcement] jelsaoverlandfrost
+[11:32:23]: [Join Announcement] jelsaoverlandfrost
+[11:49:39]: [Leave Announcement] jelsaoverlandfrost
+[06:17:56]: [Join Announcement] jelsaoverlandfrost
+[11:13:28]: [Leave Announcement] jelsaoverlandfrost
+[11:19:06]: [Join Announcement] jelsaoverlandfrost
+[11:51:33]: [Leave Announcement] jelsaoverlandfrost
+[00:35:52]: [Join Announcement] jelsaoverlandfrost

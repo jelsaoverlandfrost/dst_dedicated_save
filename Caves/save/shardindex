@@ -565,11 +565,11 @@ KLEI     1 return {
     encode_user_path=true,
     game_mode="survival",
     intention="cooperative",
-    max_players=6,
+    max_players=2,
     name="FrostyWorld",
     online_mode=true,
     password="tablet",
-    privacy_type=2,
+    privacy_type=0,
     pvp=false,
     server_language="en" 
   },

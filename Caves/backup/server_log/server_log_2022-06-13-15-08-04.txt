@@ -1,0 +1,143 @@
+[00:00:00]: PersistRootStorage is now /root/.klei//DoNotStarveTogether/FrostyWorld/Caves/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 510124
+[00:00:00]: Current time: Sat Jun 11 11:03:24 2022
+
+[00:00:00]: System Name: Linux
+[00:00:00]: Host Name: FrozenStarve
+[00:00:00]: Release(Kernel) Version: 5.4.0-117-generic
+[00:00:00]: Kernel Build Timestamp: #132-Ubuntu SMP Thu Jun 2 00:39:06 UTC 2022
+[00:00:00]: Machine Arch: x86_64
+[00:00:00]: Don't Starve Together: 510124 LINUX
+[00:00:00]: Build Date: 1032
+[00:00:00]: Mode: 64-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -console -cluster FrostyWorld -monitor_parent_process 2262 -shard Caves 
+[00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
+[00:00:00]: Initializing distribution platform
+[00:00:00]: ....Done
+[00:00:00]: THREAD - started 'GAClient' (139978073999104)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(10998, 27017)
+[00:00:01]: [Steam] SteamGameServer_Init success
+[00:00:01]: ProfileIndex:4.13
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: THREAD - started 'Ping Job Thread' (139977547577088)
+[00:00:01]: Platform: 1
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: THREAD - started 'StreamInput' (139977545475840)
+[00:00:01]: OnLoadPermissionList: /root/.klei//DoNotStarveTogether/FrostyWorld/blocklist.txt (Failure)
+[00:00:01]: OnLoadPermissionList: /root/.klei//DoNotStarveTogether/FrostyWorld/adminlist.txt (Failure)
+[00:00:01]: OnLoadUserIdList: /root/.klei//DoNotStarveTogether/FrostyWorld/whitelist.txt (Failure)
+[00:00:01]: Token retrieved from: /root/.klei//DoNotStarveTogether/FrostyWorld/cluster_token.txt
+[00:00:01]: Token retrieved from: /root/.klei//DoNotStarveTogether/FrostyWorld/cluster_token.txt
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: AppVersion::GetArchitecture() x64
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]:   taskgrouplist:	default	Together	
+[00:00:01]:   taskgrouplist:	classic	Classic	
+[00:00:01]:   taskgrouplist:	cave_default	Underground	
+[00:00:01]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:01]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:01]: Running main.lua
+	
+[00:00:01]: loaded modindex	
+[00:00:01]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:03]: SUCCESS: Loaded modoverrides.lua	
+[00:00:03]: modoverrides.lua enabling workshop-1530801499	
+[00:00:03]: modoverrides.lua enabling workshop-2528541304	
+[00:00:03]: modoverrides.lua enabling workshop-1242093526	
+[00:00:03]: modoverrides.lua enabling workshop-2753142497	
+[00:00:03]: modoverrides.lua enabling workshop-2788217698	
+[00:00:03]: modoverrides.lua enabling workshop-378160973	
+[00:00:03]: modoverrides.lua enabling workshop-2786172214	
+[00:00:03]: modoverrides.lua enabling workshop-676297854	
+[00:00:03]: modoverrides.lua enabling workshop-1207269058	
+[00:00:03]: modoverrides.lua enabling workshop-2189004162	
+[00:00:03]: modoverrides.lua enabling workshop-2801880191	
+[00:00:03]: modoverrides.lua enabling workshop-2336938952	
+[00:00:03]: modoverrides.lua enabling workshop-1113081094	
+[00:00:03]: modoverrides.lua enabling workshop-1079538195	
+[00:00:03]: modoverrides.lua enabling workshop-767776640	
+[00:00:03]: modoverrides.lua enabling workshop-2427481232	
+[00:00:03]: modoverrides.lua enabling workshop-466732225	
+[00:00:03]: modoverrides.lua enabling workshop-462469447	
+[00:00:03]: modoverrides.lua enabling workshop-396026892	
+[00:00:03]: modoverrides.lua enabling workshop-1378549454	
+[00:00:03]: modoverrides.lua enabling workshop-875994715	
+[00:00:03]: modoverrides.lua enabling workshop-661253977	
+[00:00:03]: modoverrides.lua enabling workshop-2779841191	
+[00:00:03]: modoverrides.lua enabling workshop-1840284484	
+[00:00:03]: modoverrides.lua enabling workshop-2779338942	
+[00:00:03]: modoverrides.lua enabling workshop-1185229307	
+[00:00:03]: modoverrides.lua enabling workshop-1595631294	
+[00:00:03]: modoverrides.lua enabling workshop-1342256262	
+[00:00:03]: modoverrides.lua enabling workshop-2036297076	
+[00:00:03]: modoverrides.lua enabling workshop-1818688368	
+[00:00:03]: modoverrides.lua enabling workshop-2778325244	
+[00:00:03]: modoverrides.lua enabling workshop-375859599	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1530801499	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1079538195	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1818688368	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-396026892	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-767776640	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-676297854	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2036297076	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1342256262	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-661253977	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-462469447	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1242093526	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1113081094	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2528541304	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1378549454	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2779338942	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1207269058	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2189004162	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2336938952	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2779841191	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2427481232	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-875994715	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1840284484	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2786172214	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2801880191	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2788217698	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2753142497	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2778325244	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-375859599	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-1530801499_CLIENT	
+[00:00:03]: Loading mod: workshop-1530801499 (Fast Travel (GUI)) Version:1.06	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-1079538195_CLIENT	
+[00:00:03]: Loading mod: workshop-1079538195 (Moving Box) Version:1.1.1	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-1818688368_CLIENT	
+[00:00:03]: Loading mod: workshop-1818688368 (Extra Equip Slots (Updated)) Version:1.8.0.3	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-466732225_CLIENT	
+[00:00:03]: Loading mod: workshop-466732225 (No Thermal Stone Durability) Version:full 4	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-396026892_CLIENT	
+[00:00:03]: Loading mod: workshop-396026892 (Large Chest) Version:1.1.1	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-767776640_CLIENT	
+[00:00:03]: Loading mod: workshop-767776640 (Repair Combine) Version:1.08	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-676297854_CLIENT	
+[00:00:03]: Loading mod: workshop-676297854 (Fire resurrection) Version:v2.6	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-2036297076_CLIENT	
+[00:00:03]: Loading mod: workshop-2036297076 (
