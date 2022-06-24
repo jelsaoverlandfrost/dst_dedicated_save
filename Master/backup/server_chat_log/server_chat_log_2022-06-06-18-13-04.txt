@@ -1,8 +1,0 @@
-[00:02:00]: [Join Announcement] jelsaoverlandfrost
-[01:05:06]: [Skin Announcement] jelsaoverlandfrost feet_wolfgang_ice
-[04:14:23]: [Announcement] jelsaoverlandfrost   crafted at least 500 times   Completed Achievement [Craftsman]
-[04:39:06]: [Death Announcement] jelsaoverlandfrost was killed by the passage of time. She became a spooky ghost!
-[04:39:11]: [Resurrect Announcement] jelsaoverlandfrost was resurrected by Life Giving Amulet.
-[14:17:34]: [Death Announcement] jelsaoverlandfrost was killed by the passage of time. She became a spooky ghost!
-[14:17:51]: [Resurrect Announcement] jelsaoverlandfrost was resurrected by Endothermic Fire Pit.
-[14:55:30]: [Leave Announcement] jelsaoverlandfrost

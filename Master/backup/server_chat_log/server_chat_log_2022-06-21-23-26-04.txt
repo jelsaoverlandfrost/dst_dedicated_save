@@ -1,0 +1,6 @@
+[00:02:04]: [Join Announcement] jelsaoverlandfrost
+[03:02:37]: [Announcement] Wilson   successfully entered game   Completed Achievement [New Beginning]
+[03:03:40]: [Announcement] jelsaoverlandfrost   successfully entered game   Completed Achievement [New Beginning]
+[04:10:11]: [Announcement] You feel an evil presence watching you...
+[04:10:21]: [Announcement] The Eye of Terror turns its gaze toward jelsaoverlandfrost
+[05:13:02]: [Leave Announcement] jelsaoverlandfrost

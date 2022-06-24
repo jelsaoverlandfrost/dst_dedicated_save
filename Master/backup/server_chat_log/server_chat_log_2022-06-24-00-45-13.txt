@@ -1,0 +1,8 @@
+[00:01:23]: [Join Announcement] jelsaoverlandfrost
+[01:02:18]: [Death Announcement] jelsaoverlandfrost was killed by the passage of time. She became a spooky ghost!
+[01:02:21]: [Resurrect Announcement] jelsaoverlandfrost was resurrected by Life Giving Amulet.
+[05:20:22]: [Announcement] jelsaoverlandfrost   died at least 10 times   Completed Achievement [Ghostly]
+[05:20:22]: [Death Announcement] jelsaoverlandfrost was killed by the passage of time. She became a spooky ghost!
+[05:20:29]: [Resurrect Announcement] jelsaoverlandfrost was resurrected by Life Giving Amulet.
+[07:57:14]: [Announcement] jelsaoverlandfrost   killed 15 splumonkeys   Completed Achievement [Deadly Amount]
+[08:31:01]: [Leave Announcement] jelsaoverlandfrost

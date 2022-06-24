@@ -62,7 +62,7 @@ return {
     pigs_setting="default",
     prefabswaps_start="default",
     reeds="default",
-    regrowth="veryslow",
+    regrowth="never",
     roads="never",
     rock="default",
     rocky="default",

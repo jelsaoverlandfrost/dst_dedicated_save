@@ -38,17 +38,17 @@ return {
   },
   ["workshop-1113081094"]={
     configuration_options={
-      armormarble=1.1,
+      armormarble=1,
       chester_a=true,
       consume="no",
       fence_second=false,
       heatrock_u=false,
       krampussack=1,
       no_grassgekko=true,
-      pick=true,
+      pick=false,
       piggybackspeed=1,
       refrigerator=-5,
-      siestacanopy=15,
+      siestacanopy=60,
       size=60,
       tent=999999,
       wall_armor=1 
@@ -113,7 +113,7 @@ return {
       ["MemSpikeFixworkshop-2525856394"]="default",
       ["MemSpikeFixworkshop-2528541304"]="default",
       ["MemSpikeFixworkshop-2568821043"]="default",
-      ["MemSpikeFixworkshop-2646493139"]="default",
+      ["MemSpikeFixworkshop-2630628898"]="default",
       ["MemSpikeFixworkshop-2746815492"]="default",
       ["MemSpikeFixworkshop-2753142497"]="default",
       ["MemSpikeFixworkshop-2778325244"]="default",
@@ -132,12 +132,14 @@ return {
       ["MemSpikeFixworkshop-376333686"]="default",
       ["MemSpikeFixworkshop-378160973"]="default",
       ["MemSpikeFixworkshop-396026892"]="default",
+      ["MemSpikeFixworkshop-436110082"]="default",
       ["MemSpikeFixworkshop-458587300"]="default",
       ["MemSpikeFixworkshop-459280938"]="default",
       ["MemSpikeFixworkshop-462469447"]="default",
       ["MemSpikeFixworkshop-466732225"]="default",
       ["MemSpikeFixworkshop-569043634"]="default",
       ["MemSpikeFixworkshop-610528767"]="default",
+      ["MemSpikeFixworkshop-656256171"]="default",
       ["MemSpikeFixworkshop-661253977"]="default",
       ["MemSpikeFixworkshop-666155465"]="default",
       ["MemSpikeFixworkshop-676297854"]="default",
@@ -354,6 +356,7 @@ return {
     configuration_options={ amount_given=10, amount_given2=1, planting_floor=true },
     enabled=true 
   },
+  ["workshop-2630628898"]={ configuration_options={  }, enabled=true },
   ["workshop-2753142497"]={
     configuration_options={
       [""]=0,
@@ -446,7 +449,6 @@ return {
       cost_turf=true,
       digging_tool="pitchfork",
       force_mode=false,
-      mod_language=1,
       need_serveradmin=false,
       no_pitchfork1="",
       no_pitchfork2="",
@@ -516,6 +518,10 @@ return {
   ["workshop-396026892"]={ configuration_options={ OPT_DIFFICULTY=1 }, enabled=true },
   ["workshop-462469447"]={ configuration_options={  }, enabled=true },
   ["workshop-466732225"]={ configuration_options={  }, enabled=true },
+  ["workshop-656256171"]={
+    configuration_options={ dont_give_dubloons=2, give_dubloons=2, position=1, rec_dubloon=1, rec_gold=3 },
+    enabled=true 
+  },
   ["workshop-661253977"]={
     configuration_options={ amudiao=true, baodiao=1, kong=0, nillots=0, rendiao=2, zbdiao=true },
     enabled=true 
