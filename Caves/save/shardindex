@@ -575,7 +575,7 @@ KLEI     1 return {
     name="FrostyWorld",
     online_mode=true,
     password="tablet",
-    privacy_type=2,
+    privacy_type=0,
     pvp=false,
     server_language="en" 
   },
